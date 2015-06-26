@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import xml.etree.ElementTree as ET
-
+from sets import Set
 from os import listdir
 from os.path import isfile, join
 
@@ -10,6 +10,7 @@ mypath = 'cities/'
 onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
 
 print onlyfiles
+onlyfiles = ['kyzylorda.xml']
 
 for city in onlyfiles:
 
@@ -39,6 +40,10 @@ for city in onlyfiles:
 		f.write('\n')
 	f.close()
 
+	unique = Set(geo_data)
+	geo_data = []
+	for el in unique:
+		geo_data.append(el)
 	f = open('geopositions/'+city_name+'.txt', 'w')
 	for geoposition in geo_data:
 		f.write(geoposition.encode('utf-8'))
