@@ -3,16 +3,10 @@
 
 import xml.etree.ElementTree as ET
 from sets import Set
-from os import listdir
-from os.path import isfile, join
 
-mypath = 'cities/'
-onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
+from getfiles import files
 
-print onlyfiles
-onlyfiles = ['kyzylorda.xml']
-
-for city in onlyfiles:
+for city in files:
 
 	print city
 
