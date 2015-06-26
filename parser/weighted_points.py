@@ -2,6 +2,7 @@ from kdtree import KDTree
 
 import csv
 import time
+from sets import Set
 
 def get_dist(pointA, pointB):
 	dist = 0.0
@@ -37,7 +38,19 @@ while len(points) > 1000:
 		# 	s_point = point
 		# 	min_dist = dist
 	pairs.sort(key=lambda x: x[2])
-	pairs = pairs[:block_size]
+	all_pairs = []
+	used = Set()
+	for pair in pairs:
+		p_a = pair[0]
+		p_b = pair[1]
+		if p_a not in used and p_b not in used:
+			used.add(p_a)
+			used.add(p_b)
+			all_pairs.append(pair)
+			if len(all_pairs) == block_size:
+				break
+	# pairs = pairs[:block_size]
+	pairs = all_pairs
 	new_points = []
 	for (f_point, s_point, dist) in pairs:
 		ind = 0
@@ -60,3 +73,9 @@ while len(points) > 1000:
 
 print 'total: ' + str(time.time() - start_time)
 
+f = open('kyzylorda_weighted.txt', 'w')
+for point in points:
+	for d in point:
+		f.write(unicode(d) + u',')
+	f.write('\n')
+f.close()
