@@ -2,6 +2,7 @@
 # coding=utf-8
 
 import xml.etree.ElementTree as ET
+import random
 
 from os import listdir
 from os.path import isfile, join
@@ -42,6 +43,7 @@ for city in onlyfiles:
 	f.close()
 
 	f = open('geopositions/'+city_name+'.txt', 'w')
+	geo_data = random.sample(geo_data, 400)
 	for geoposition in geo_data:
 		f.write(u'new google.maps.LatLng(%s),'%(geoposition.encode('utf-8')))
 		f.write('\n')
