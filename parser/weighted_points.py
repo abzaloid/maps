@@ -20,7 +20,7 @@ with open('geopositions/kyzylorda.txt', 'rb') as csvfile:
 
 block_size = 100
 start_time = time.time()
-while len(points) > 1000:
+while len(points) > 3000:
 	print len(points)
 	s_time = time.time()
 	tree = KDTree.construct_from_data(points)
@@ -74,8 +74,12 @@ while len(points) > 1000:
 print 'total: ' + str(time.time() - start_time)
 
 f = open('kyzylorda_weighted.txt', 'w')
+used = Set()
+hash_val = 1000000
 for point in points:
-	for d in point:
-		f.write(unicode(d) + u',')
-	f.write('\n')
+	if ((point[0]*hash_val), int(point[1]*hash_val)) not in used:
+		used.add((point[0]*hash_val, point[1]*hash_val))
+		for d in point:
+			f.write(unicode(d) + u',')
+		f.write('\n')
 f.close()
