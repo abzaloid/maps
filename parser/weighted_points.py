@@ -67,7 +67,7 @@ while len(points) > 1000:
 		points = points[:ind] + points[ind+1:]
 		new_points.append(((f_point[0]+s_point[0])/2,
 							(f_point[1]+s_point[1])/2,
-							(f_point[2]+s_point[2])/2))
+							(f_point[2]+s_point[2])))
 	points+=new_points
 	print time.time() - s_time
 
