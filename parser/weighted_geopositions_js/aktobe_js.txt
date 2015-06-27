@@ -1,600 +1,600 @@
-{location: new google.maps.LatLng(50.2884561655, 57.1976377302), weight: 1.0},
-{location: new google.maps.LatLng(50.2951919216, 57.2188059117), weight: 2.0},
-{location: new google.maps.LatLng(50.2553499645, 57.2363656018), weight: 1.0},
-{location: new google.maps.LatLng(50.2974046845, 57.204394671), weight: 1.0},
-{location: new google.maps.LatLng(50.2940402775, 57.16964724), weight: 2.0},
-{location: new google.maps.LatLng(50.2665379353, 57.2215559823), weight: 2.0},
-{location: new google.maps.LatLng(50.2899754022, 57.1812270976), weight: 2.0},
-{location: new google.maps.LatLng(50.3203655498, 57.1308716341), weight: 2.0},
-{location: new google.maps.LatLng(50.3089014126, 57.1373656448), weight: 1.0},
-{location: new google.maps.LatLng(50.2910595559, 57.2364737997), weight: 1.0},
-{location: new google.maps.LatLng(50.2738166297, 57.1860627539), weight: 1.0},
-{location: new google.maps.LatLng(50.2909865438, 57.2206642744), weight: 1.0},
-{location: new google.maps.LatLng(50.3018464803, 57.1364535964), weight: 2.0},
-{location: new google.maps.LatLng(50.2913711411, 57.1620845032), weight: 2.0},
-{location: new google.maps.LatLng(50.2798513562, 57.2348494174), weight: 4.0},
-{location: new google.maps.LatLng(50.2758646177, 57.2229035421), weight: 2.0},
-{location: new google.maps.LatLng(50.3218687663, 57.1396081896), weight: 1.0},
-{location: new google.maps.LatLng(50.2875610258, 57.2104844449), weight: 2.0},
-{location: new google.maps.LatLng(50.293205543, 57.2296038181), weight: 1.0},
-{location: new google.maps.LatLng(50.2950779396, 57.2315549902), weight: 2.0},
-{location: new google.maps.LatLng(50.2853747274, 57.1957576566), weight: 2.0},
-{location: new google.maps.LatLng(50.2816853987, 57.2166146497), weight: 1.0},
-{location: new google.maps.LatLng(50.2868320658, 57.2162558439), weight: 1.0},
-{location: new google.maps.LatLng(50.2061923353, 57.2802635516), weight: 1.0},
-{location: new google.maps.LatLng(50.2679287087, 57.2004530752), weight: 1.0},
-{location: new google.maps.LatLng(50.2887031671, 57.148664731), weight: 2.0},
-{location: new google.maps.LatLng(50.3055773685, 57.1518765183), weight: 1.0},
-{location: new google.maps.LatLng(50.3075733067, 57.1333664527), weight: 2.0},
-{location: new google.maps.LatLng(50.2854447274, 57.2267254882), weight: 2.0},
-{location: new google.maps.LatLng(50.3167929359, 57.1516807391), weight: 2.0},
-{location: new google.maps.LatLng(50.3090306904, 57.1522569409), weight: 2.0},
-{location: new google.maps.LatLng(50.2832443858, 57.2149491831), weight: 1.0},
-{location: new google.maps.LatLng(50.2729726683, 57.2072501732), weight: 1.0},
-{location: new google.maps.LatLng(50.282669448, 57.1957166031), weight: 1.0},
-{location: new google.maps.LatLng(50.2977977032, 57.2067975125), weight: 1.0},
-{location: new google.maps.LatLng(50.2895389929, 57.1964277929), weight: 1.0},
-{location: new google.maps.LatLng(50.2824421654, 57.2029924317), weight: 4.0},
-{location: new google.maps.LatLng(50.3293865884, 57.1501940761), weight: 1.0},
-{location: new google.maps.LatLng(50.2814250397, 57.1625787116), weight: 1.0},
-{location: new google.maps.LatLng(50.3138246893, 57.2535610486), weight: 1.0},
-{location: new google.maps.LatLng(50.2802668255, 57.1760155518), weight: 1.0},
-{location: new google.maps.LatLng(50.2901602672, 57.1487303537), weight: 1.0},
-{location: new google.maps.LatLng(50.2941092871, 57.1488250563), weight: 2.0},
-{location: new google.maps.LatLng(50.2927899303, 57.2291063403), weight: 1.0},
-{location: new google.maps.LatLng(50.2821504531, 57.2926144737), weight: 1.0},
-{location: new google.maps.LatLng(50.3105295418, 57.1395840181), weight: 1.0},
-{location: new google.maps.LatLng(50.3060301464, 57.1351728247), weight: 1.0},
-{location: new google.maps.LatLng(50.2867821857, 57.1739550513), weight: 1.0},
-{location: new google.maps.LatLng(50.27774039, 57.2249237081), weight: 1.0},
-{location: new google.maps.LatLng(50.3044007989, 57.1457905359), weight: 2.0},
-{location: new google.maps.LatLng(50.3076365421, 57.2922904944), weight: 1.0},
-{location: new google.maps.LatLng(50.2706048364, 57.2284161767), weight: 2.0},
-{location: new google.maps.LatLng(50.2915538726, 57.2993661061), weight: 1.0},
-{location: new google.maps.LatLng(50.3157528186, 57.1523392837), weight: 1.0},
-{location: new google.maps.LatLng(50.2768437838, 57.225376108), weight: 1.0},
-{location: new google.maps.LatLng(50.3227817047, 57.1433829752), weight: 1.0},
-{location: new google.maps.LatLng(50.2892265823, 57.1730479075), weight: 1.0},
-{location: new google.maps.LatLng(50.281515042, 57.1752443936), weight: 1.0},
-{location: new google.maps.LatLng(50.286534389, 57.1681648835), weight: 1.0},
-{location: new google.maps.LatLng(50.2799285015, 57.2333573123), weight: 2.0},
-{location: new google.maps.LatLng(50.2951061243, 57.2314802156), weight: 1.0},
-{location: new google.maps.LatLng(50.270476543, 57.2420569721), weight: 1.0},
-{location: new google.maps.LatLng(50.3012873874, 57.148548225), weight: 1.0},
-{location: new google.maps.LatLng(50.2959400306, 57.1474103701), weight: 1.0},
-{location: new google.maps.LatLng(50.2710756803, 57.202320465), weight: 1.0},
-{location: new google.maps.LatLng(50.3035654522, 57.1479551298), weight: 1.0},
-{location: new google.maps.LatLng(50.3168556366, 57.3076796391), weight: 1.0},
-{location: new google.maps.LatLng(50.2845300964, 57.1560493716), weight: 4.0},
-{location: new google.maps.LatLng(50.3020534438, 57.1633063153), weight: 1.0},
-{location: new google.maps.LatLng(50.2947557181, 57.1593304145), weight: 2.0},
-{location: new google.maps.LatLng(50.271998788, 57.2065670313), weight: 2.0},
-{location: new google.maps.LatLng(50.31067934, 57.1413964859), weight: 1.0},
-{location: new google.maps.LatLng(50.2819686658, 57.2182320127), weight: 1.0},
-{location: new google.maps.LatLng(50.3145847058, 57.1335453993), weight: 2.0},
-{location: new google.maps.LatLng(50.2926990567, 57.2029122456), weight: 1.0},
-{location: new google.maps.LatLng(50.2728389049, 57.2085715627), weight: 1.0},
-{location: new google.maps.LatLng(50.2791342962, 57.2296347757), weight: 2.0},
-{location: new google.maps.LatLng(50.2862988333, 57.2140130697), weight: 2.0},
-{location: new google.maps.LatLng(50.3174222002, 57.1493563498), weight: 1.0},
-{location: new google.maps.LatLng(50.3136427598, 57.1398613666), weight: 1.0},
-{location: new google.maps.LatLng(50.2914920975, 57.2157994206), weight: 1.0},
-{location: new google.maps.LatLng(50.2765048352, 57.2290384987), weight: 1.0},
-{location: new google.maps.LatLng(50.2757109875, 57.2520986131), weight: 1.0},
-{location: new google.maps.LatLng(50.2105044488, 57.2716644701), weight: 1.0},
-{location: new google.maps.LatLng(50.3160934206, 57.3149065269), weight: 1.0},
-{location: new google.maps.LatLng(50.2890776381, 57.177061922), weight: 1.0},
-{location: new google.maps.LatLng(50.3142231346, 57.1418182972), weight: 1.0},
-{location: new google.maps.LatLng(50.2800796387, 57.2269369567), weight: 1.0},
-{location: new google.maps.LatLng(50.3016577907, 57.2098532462), weight: 2.0},
-{location: new google.maps.LatLng(50.3171663303, 57.1260401658), weight: 2.0},
-{location: new google.maps.LatLng(50.2887543575, 57.1589375194), weight: 1.0},
-{location: new google.maps.LatLng(50.3133672483, 57.2972092465), weight: 1.0},
-{location: new google.maps.LatLng(50.2876902944, 57.1465503819), weight: 2.0},
-{location: new google.maps.LatLng(50.3005723358, 57.1688764232), weight: 2.0},
-{location: new google.maps.LatLng(50.2889958613, 57.2281985418), weight: 1.0},
-{location: new google.maps.LatLng(50.2826606977, 57.2253605885), weight: 1.0},
-{location: new google.maps.LatLng(50.2805393322, 57.2345924683), weight: 1.0},
-{location: new google.maps.LatLng(50.266287489, 57.2367859447), weight: 1.0},
-{location: new google.maps.LatLng(50.283187991, 57.1594394826), weight: 1.0},
-{location: new google.maps.LatLng(50.2738851132, 57.220046004), weight: 1.0},
-{location: new google.maps.LatLng(50.2794482275, 57.2308304889), weight: 2.0},
-{location: new google.maps.LatLng(50.2746218982, 57.2357513255), weight: 2.0},
-{location: new google.maps.LatLng(50.2985232493, 57.1458375619), weight: 1.0},
-{location: new google.maps.LatLng(50.320548035, 57.1471829947), weight: 1.0},
-{location: new google.maps.LatLng(50.3081884574, 57.1474846656), weight: 2.0},
-{location: new google.maps.LatLng(50.278841155, 57.2029561496), weight: 1.0},
-{location: new google.maps.LatLng(50.298945568, 57.1608341223), weight: 2.0},
-{location: new google.maps.LatLng(50.294692485, 57.1428277225), weight: 1.0},
-{location: new google.maps.LatLng(50.2834366284, 57.219689958), weight: 1.0},
-{location: new google.maps.LatLng(50.2790651241, 57.1763598123), weight: 1.0},
-{location: new google.maps.LatLng(50.2838070527, 57.1945991324), weight: 1.0},
-{location: new google.maps.LatLng(50.3116224091, 57.1390502764), weight: 2.0},
-{location: new google.maps.LatLng(50.3104738566, 57.1476718781), weight: 1.0},
-{location: new google.maps.LatLng(50.2891585996, 57.197461301), weight: 2.0},
-{location: new google.maps.LatLng(50.2924901977, 57.1524722115), weight: 2.0},
-{location: new google.maps.LatLng(50.2944083248, 57.1710700244), weight: 1.0},
-{location: new google.maps.LatLng(50.2827922339, 57.2759344816), weight: 2.0},
-{location: new google.maps.LatLng(50.2560259547, 57.2359774898), weight: 1.0},
-{location: new google.maps.LatLng(50.2857675008, 57.2372744859), weight: 1.0},
-{location: new google.maps.LatLng(50.2934300668, 57.1737189089), weight: 2.0},
-{location: new google.maps.LatLng(50.2781422612, 57.2020144922), weight: 1.0},
-{location: new google.maps.LatLng(50.3046919308, 57.1520286938), weight: 4.0},
-{location: new google.maps.LatLng(50.3011920752, 57.2156535146), weight: 2.0},
-{location: new google.maps.LatLng(50.2705815568, 57.2382747258), weight: 1.0},
-{location: new google.maps.LatLng(50.2925965716, 57.1578352955), weight: 2.0},
-{location: new google.maps.LatLng(50.2971707613, 57.1439875789), weight: 1.0},
-{location: new google.maps.LatLng(50.2995723273, 57.1415043427), weight: 1.0},
-{location: new google.maps.LatLng(50.3040023764, 57.1476235574), weight: 1.0},
-{location: new google.maps.LatLng(50.2831396198, 57.2178560256), weight: 2.0},
-{location: new google.maps.LatLng(50.27895655, 57.1669096302), weight: 2.0},
-{location: new google.maps.LatLng(50.3089679294, 57.1532835313), weight: 2.0},
-{location: new google.maps.LatLng(50.2896268431, 57.1755795902), weight: 1.0},
-{location: new google.maps.LatLng(50.3144523277, 57.131140715), weight: 1.0},
-{location: new google.maps.LatLng(50.289015065, 57.1699718037), weight: 2.0},
-{location: new google.maps.LatLng(50.2854860022, 57.2290805881), weight: 1.0},
-{location: new google.maps.LatLng(50.3158161753, 57.1273747407), weight: 1.0},
-{location: new google.maps.LatLng(50.3006726849, 57.2242362587), weight: 2.0},
-{location: new google.maps.LatLng(50.3291403423, 57.3328925767), weight: 1.0},
-{location: new google.maps.LatLng(50.2815873188, 57.198823904), weight: 2.0},
-{location: new google.maps.LatLng(50.2968124397, 57.2235530116), weight: 1.0},
-{location: new google.maps.LatLng(50.3323112266, 57.3444491911), weight: 1.0},
-{location: new google.maps.LatLng(50.2970719345, 57.1624858875), weight: 2.0},
-{location: new google.maps.LatLng(50.2643511741, 57.233211361), weight: 1.0},
-{location: new google.maps.LatLng(50.2940929454, 57.2495943657), weight: 1.0},
-{location: new google.maps.LatLng(50.3097765565, 57.1315996787), weight: 2.0},
-{location: new google.maps.LatLng(50.2812447672, 57.2274420027), weight: 1.0},
-{location: new google.maps.LatLng(50.2832698531, 57.1631083275), weight: 2.0},
-{location: new google.maps.LatLng(50.2673515276, 57.2303363405), weight: 1.0},
-{location: new google.maps.LatLng(50.2774078158, 57.2254730264), weight: 2.0},
-{location: new google.maps.LatLng(50.2827475766, 57.2373000701), weight: 1.0},
-{location: new google.maps.LatLng(50.2844823106, 57.1649994425), weight: 1.0},
-{location: new google.maps.LatLng(50.2819315923, 57.2154959954), weight: 1.0},
-{location: new google.maps.LatLng(50.2878564862, 57.2133328194), weight: 1.0},
-{location: new google.maps.LatLng(50.3131475437, 57.1484652131), weight: 1.0},
-{location: new google.maps.LatLng(50.2687152045, 57.2372475798), weight: 1.0},
-{location: new google.maps.LatLng(50.2798127918, 57.1637955303), weight: 1.0},
-{location: new google.maps.LatLng(50.3016028982, 57.2077808558), weight: 1.0},
-{location: new google.maps.LatLng(50.2936840303, 57.1602238452), weight: 2.0},
-{location: new google.maps.LatLng(50.274594735, 57.2031146746), weight: 1.0},
-{location: new google.maps.LatLng(50.3121712834, 57.1311123383), weight: 2.0},
-{location: new google.maps.LatLng(50.297658438, 57.1510607737), weight: 2.0},
-{location: new google.maps.LatLng(50.3007903353, 57.1644505754), weight: 2.0},
-{location: new google.maps.LatLng(50.2824618731, 57.2085062505), weight: 1.0},
-{location: new google.maps.LatLng(50.2576779702, 57.2347978328), weight: 1.0},
-{location: new google.maps.LatLng(50.2826286363, 57.1733605138), weight: 2.0},
-{location: new google.maps.LatLng(50.3319242094, 57.3438398374), weight: 1.0},
-{location: new google.maps.LatLng(50.2856167458, 57.2259333562), weight: 2.0},
-{location: new google.maps.LatLng(50.280218539, 57.223253259), weight: 1.0},
-{location: new google.maps.LatLng(50.3036520603, 57.1412708578), weight: 1.0},
-{location: new google.maps.LatLng(50.2698885898, 57.2077867256), weight: 2.0},
-{location: new google.maps.LatLng(50.295527898, 57.2266255245), weight: 2.0},
-{location: new google.maps.LatLng(50.2666331623, 57.2136093227), weight: 1.0},
-{location: new google.maps.LatLng(50.3072026611, 57.1615800682), weight: 1.0},
-{location: new google.maps.LatLng(50.3043628198, 57.2108331635), weight: 1.0},
-{location: new google.maps.LatLng(50.2873111994, 57.2074814855), weight: 1.0},
-{location: new google.maps.LatLng(50.2777667397, 57.1961758097), weight: 1.0},
-{location: new google.maps.LatLng(50.2623192068, 57.2313417135), weight: 2.0},
-{location: new google.maps.LatLng(50.3069051067, 57.1538641162), weight: 2.0},
-{location: new google.maps.LatLng(50.3158695662, 57.31649445), weight: 1.0},
-{location: new google.maps.LatLng(50.2674002238, 57.211709087), weight: 1.0},
-{location: new google.maps.LatLng(50.2950595927, 57.1380925292), weight: 2.0},
-{location: new google.maps.LatLng(50.2916108112, 57.146830869), weight: 1.0},
-{location: new google.maps.LatLng(50.2912195666, 57.2183100898), weight: 2.0},
-{location: new google.maps.LatLng(50.2750310529, 57.2175722055), weight: 2.0},
-{location: new google.maps.LatLng(50.315755952, 57.1422363435), weight: 1.0},
-{location: new google.maps.LatLng(50.2960311316, 57.1985844879), weight: 1.0},
-{location: new google.maps.LatLng(50.3060554894, 57.1471725618), weight: 2.0},
-{location: new google.maps.LatLng(50.2787210304, 57.2336783451), weight: 2.0},
-{location: new google.maps.LatLng(50.3130966432, 57.1305573958), weight: 1.0},
-{location: new google.maps.LatLng(50.2794246414, 57.2372709115), weight: 1.0},
-{location: new google.maps.LatLng(50.3216177835, 57.1388521728), weight: 1.0},
-{location: new google.maps.LatLng(50.282684959, 57.2148286429), weight: 2.0},
-{location: new google.maps.LatLng(50.2962804499, 57.1876415801), weight: 2.0},
-{location: new google.maps.LatLng(50.319628965, 57.1511319078), weight: 2.0},
-{location: new google.maps.LatLng(50.2865726332, 57.1950754037), weight: 2.0},
-{location: new google.maps.LatLng(50.2933249514, 57.1667569395), weight: 2.0},
-{location: new google.maps.LatLng(50.2802593018, 57.238464324), weight: 2.0},
-{location: new google.maps.LatLng(50.3026083221, 57.2102607215), weight: 2.0},
-{location: new google.maps.LatLng(50.3012214426, 57.1651423981), weight: 1.0},
-{location: new google.maps.LatLng(50.2957109116, 57.1992452697), weight: 1.0},
-{location: new google.maps.LatLng(50.2985784838, 57.1410278895), weight: 1.0},
-{location: new google.maps.LatLng(50.2834880587, 57.2261268175), weight: 4.0},
-{location: new google.maps.LatLng(50.3063777938, 57.1521966421), weight: 1.0},
-{location: new google.maps.LatLng(50.2939816044, 57.1934836038), weight: 1.0},
-{location: new google.maps.LatLng(50.2743849881, 57.2508795976), weight: 1.0},
-{location: new google.maps.LatLng(50.2663093554, 57.2435488016), weight: 1.0},
-{location: new google.maps.LatLng(50.313873223, 57.1441468417), weight: 2.0},
-{location: new google.maps.LatLng(50.2852679959, 57.2140662817), weight: 2.0},
-{location: new google.maps.LatLng(50.2795892435, 57.2339938948), weight: 1.0},
-{location: new google.maps.LatLng(50.2958700159, 57.1733733806), weight: 2.0},
-{location: new google.maps.LatLng(50.2960598924, 57.1586058369), weight: 2.0},
-{location: new google.maps.LatLng(50.2850126761, 57.2257070938), weight: 2.0},
-{location: new google.maps.LatLng(50.2917063821, 57.163484584), weight: 2.0},
-{location: new google.maps.LatLng(50.2502408778, 57.2425291754), weight: 1.0},
-{location: new google.maps.LatLng(50.279834131, 57.1747579412), weight: 1.0},
-{location: new google.maps.LatLng(50.2653613805, 57.2485669566), weight: 1.0},
-{location: new google.maps.LatLng(50.2851535206, 57.2273700105), weight: 1.0},
-{location: new google.maps.LatLng(50.3020394402, 57.2195776647), weight: 2.0},
-{location: new google.maps.LatLng(50.2916890921, 57.1668992675), weight: 1.0},
-{location: new google.maps.LatLng(50.2902350757, 57.2081686605), weight: 1.0},
-{location: new google.maps.LatLng(50.2695624086, 57.2097791187), weight: 4.0},
-{location: new google.maps.LatLng(50.2823885056, 57.2866363147), weight: 1.0},
-{location: new google.maps.LatLng(50.2812045023, 57.2261474763), weight: 8.0},
-{location: new google.maps.LatLng(50.279540692, 57.2185957587), weight: 1.0},
-{location: new google.maps.LatLng(50.2718572258, 57.2366084992), weight: 2.0},
-{location: new google.maps.LatLng(50.3133765148, 57.1391554339), weight: 1.0},
-{location: new google.maps.LatLng(50.2708931849, 57.2435474189), weight: 1.0},
-{location: new google.maps.LatLng(50.2899158716, 57.2073318666), weight: 1.0},
-{location: new google.maps.LatLng(50.2847811996, 57.2013187327), weight: 1.0},
-{location: new google.maps.LatLng(50.3050660265, 57.1637336643), weight: 2.0},
-{location: new google.maps.LatLng(50.3032227012, 57.2132429989), weight: 1.0},
-{location: new google.maps.LatLng(50.2841423047, 57.1585368358), weight: 1.0},
-{location: new google.maps.LatLng(50.280347159, 57.2262695606), weight: 4.0},
-{location: new google.maps.LatLng(50.3095528186, 57.1403259035), weight: 1.0},
-{location: new google.maps.LatLng(50.3111336111, 57.1409134493), weight: 1.0},
-{location: new google.maps.LatLng(50.2908388691, 57.2037637542), weight: 1.0},
-{location: new google.maps.LatLng(50.2860271957, 57.1659739648), weight: 1.0},
-{location: new google.maps.LatLng(50.3053377168, 57.2203256026), weight: 1.0},
-{location: new google.maps.LatLng(50.2923194643, 57.2246664221), weight: 1.0},
-{location: new google.maps.LatLng(50.2871010329, 57.2290853884), weight: 1.0},
-{location: new google.maps.LatLng(50.2806859106, 57.2271543623), weight: 2.0},
-{location: new google.maps.LatLng(50.299841794, 57.2036181672), weight: 1.0},
-{location: new google.maps.LatLng(50.2861977846, 57.2310871495), weight: 1.0},
-{location: new google.maps.LatLng(50.2656204801, 57.2329395215), weight: 1.0},
-{location: new google.maps.LatLng(50.2821595158, 57.2328300638), weight: 1.0},
-{location: new google.maps.LatLng(50.2664296338, 57.2375671568), weight: 1.0},
-{location: new google.maps.LatLng(50.2561204638, 57.2350239542), weight: 1.0},
-{location: new google.maps.LatLng(50.3017133084, 57.1409303408), weight: 2.0},
-{location: new google.maps.LatLng(50.3130633743, 57.1500312086), weight: 1.0},
-{location: new google.maps.LatLng(50.3259467078, 57.3393136168), weight: 1.0},
-{location: new google.maps.LatLng(50.269256356, 57.2128676601), weight: 1.0},
-{location: new google.maps.LatLng(50.291119401, 57.1601122199), weight: 1.0},
-{location: new google.maps.LatLng(50.2966337979, 57.1675602573), weight: 2.0},
-{location: new google.maps.LatLng(50.324437413, 57.3330869358), weight: 1.0},
-{location: new google.maps.LatLng(50.3031090522, 57.148315689), weight: 1.0},
-{location: new google.maps.LatLng(50.2869582551, 57.1491732945), weight: 1.0},
-{location: new google.maps.LatLng(50.2832967599, 57.2034400924), weight: 2.0},
-{location: new google.maps.LatLng(50.2902485132, 57.2156931131), weight: 1.0},
-{location: new google.maps.LatLng(50.3010928018, 57.1631485495), weight: 2.0},
-{location: new google.maps.LatLng(50.2990805982, 57.2760791312), weight: 1.0},
-{location: new google.maps.LatLng(50.2940510523, 57.2084030688), weight: 2.0},
-{location: new google.maps.LatLng(50.2925801421, 57.2174480513), weight: 1.0},
-{location: new google.maps.LatLng(50.2992699454, 57.1475365843), weight: 1.0},
-{location: new google.maps.LatLng(50.2751872856, 57.2058939267), weight: 2.0},
-{location: new google.maps.LatLng(50.2894690538, 57.2067043411), weight: 1.0},
-{location: new google.maps.LatLng(50.31073081, 57.1519939604), weight: 1.0},
-{location: new google.maps.LatLng(50.2849480841, 57.229325358), weight: 2.0},
-{location: new google.maps.LatLng(50.2870766104, 57.1650855069), weight: 1.0},
-{location: new google.maps.LatLng(50.2982556399, 57.1632958145), weight: 1.0},
-{location: new google.maps.LatLng(50.2897241495, 57.2570144323), weight: 1.0},
-{location: new google.maps.LatLng(50.2872220255, 57.1776925066), weight: 1.0},
-{location: new google.maps.LatLng(50.2803071199, 57.228377091), weight: 1.0},
-{location: new google.maps.LatLng(50.2944782228, 57.2097269496), weight: 1.0},
-{location: new google.maps.LatLng(50.307175336, 57.1412399729), weight: 1.0},
-{location: new google.maps.LatLng(50.2954722239, 57.2057876491), weight: 1.0},
-{location: new google.maps.LatLng(50.2895142034, 57.2643693251), weight: 1.0},
-{location: new google.maps.LatLng(50.2992266282, 57.1498861861), weight: 1.0},
-{location: new google.maps.LatLng(50.3090485889, 57.1563497118), weight: 1.0},
-{location: new google.maps.LatLng(50.2813954719, 57.2108103941), weight: 1.0},
-{location: new google.maps.LatLng(50.2922602195, 57.2125411384), weight: 2.0},
-{location: new google.maps.LatLng(50.316135897, 57.1282038909), weight: 1.0},
-{location: new google.maps.LatLng(50.2973343408, 57.168613263), weight: 1.0},
-{location: new google.maps.LatLng(50.2883298822, 57.1575644489), weight: 2.0},
-{location: new google.maps.LatLng(50.3171171208, 57.132531131), weight: 1.0},
-{location: new google.maps.LatLng(50.3185504345, 57.142804914), weight: 1.0},
-{location: new google.maps.LatLng(50.2848067545, 57.2235529074), weight: 1.0},
-{location: new google.maps.LatLng(50.284285813, 57.2262462958), weight: 1.0},
-{location: new google.maps.LatLng(50.2854875095, 57.164740958), weight: 2.0},
-{location: new google.maps.LatLng(50.2809278566, 57.2154660006), weight: 2.0},
-{location: new google.maps.LatLng(50.319643221, 57.1450611839), weight: 1.0},
-{location: new google.maps.LatLng(50.2775099123, 57.221326003), weight: 2.0},
-{location: new google.maps.LatLng(50.3184421641, 57.3337147662), weight: 1.0},
-{location: new google.maps.LatLng(50.2692187937, 57.2184289722), weight: 1.0},
-{location: new google.maps.LatLng(50.3313543794, 57.320845331), weight: 1.0},
-{location: new google.maps.LatLng(50.288098689, 57.1776566603), weight: 2.0},
-{location: new google.maps.LatLng(50.2746416333, 57.1924509866), weight: 4.0},
-{location: new google.maps.LatLng(50.302135382, 57.1490311952), weight: 1.0},
-{location: new google.maps.LatLng(50.2864595354, 57.2038228216), weight: 2.0},
-{location: new google.maps.LatLng(50.3106302923, 57.1313540494), weight: 2.0},
-{location: new google.maps.LatLng(50.3007813382, 57.2051252422), weight: 4.0},
-{location: new google.maps.LatLng(50.2791950742, 57.2055938953), weight: 1.0},
-{location: new google.maps.LatLng(50.2750848263, 57.2269897452), weight: 1.0},
-{location: new google.maps.LatLng(50.3188363162, 57.1484376588), weight: 2.0},
-{location: new google.maps.LatLng(50.2905700105, 57.2169775608), weight: 1.0},
-{location: new google.maps.LatLng(50.2999381502, 57.1428048811), weight: 1.0},
-{location: new google.maps.LatLng(50.2853109638, 57.2156527487), weight: 1.0},
-{location: new google.maps.LatLng(50.2998554754, 57.1966095295), weight: 1.0},
-{location: new google.maps.LatLng(50.2761816497, 57.1889787445), weight: 1.0},
-{location: new google.maps.LatLng(50.3236113752, 57.3262148982), weight: 1.0},
-{location: new google.maps.LatLng(50.3065213722, 57.1358775803), weight: 2.0},
-{location: new google.maps.LatLng(50.3085726228, 57.1557532968), weight: 2.0},
-{location: new google.maps.LatLng(50.2712402763, 57.2076531818), weight: 1.0},
-{location: new google.maps.LatLng(50.3070621621, 57.1516104149), weight: 2.0},
-{location: new google.maps.LatLng(50.2827237412, 57.1515334097), weight: 2.0},
-{location: new google.maps.LatLng(50.2869897925, 57.2300014736), weight: 2.0},
-{location: new google.maps.LatLng(50.2982741661, 57.1499588614), weight: 1.0},
-{location: new google.maps.LatLng(50.2672229473, 57.2402155637), weight: 2.0},
-{location: new google.maps.LatLng(50.2019901353, 57.2887070237), weight: 1.0},
-{location: new google.maps.LatLng(50.312716199, 57.2946355495), weight: 1.0},
-{location: new google.maps.LatLng(50.2896742857, 57.197518382), weight: 1.0},
-{location: new google.maps.LatLng(50.2830612804, 57.1601221568), weight: 2.0},
-{location: new google.maps.LatLng(50.2917954837, 57.1519749483), weight: 2.0},
-{location: new google.maps.LatLng(50.2986111655, 57.1617510004), weight: 1.0},
-{location: new google.maps.LatLng(50.2969072649, 57.136486659), weight: 1.0},
-{location: new google.maps.LatLng(50.2979872806, 57.1639608374), weight: 1.0},
-{location: new google.maps.LatLng(50.2840056129, 57.2015873961), weight: 2.0},
-{location: new google.maps.LatLng(50.2891303426, 57.1811177689), weight: 2.0},
-{location: new google.maps.LatLng(50.3079628843, 57.1393793946), weight: 1.0},
-{location: new google.maps.LatLng(50.3007795359, 57.2828035011), weight: 1.0},
-{location: new google.maps.LatLng(50.2766481148, 57.1922429064), weight: 1.0},
-{location: new google.maps.LatLng(50.2975413552, 57.157291972), weight: 2.0},
-{location: new google.maps.LatLng(50.289106718, 57.2574222627), weight: 1.0},
-{location: new google.maps.LatLng(50.2653029663, 57.2383148019), weight: 2.0},
-{location: new google.maps.LatLng(50.3175617508, 57.1447555955), weight: 1.0},
-{location: new google.maps.LatLng(50.2824933945, 57.2049352251), weight: 1.0},
-{location: new google.maps.LatLng(50.212967695, 57.2719104531), weight: 1.0},
-{location: new google.maps.LatLng(50.2794614409, 57.1707498516), weight: 1.0},
-{location: new google.maps.LatLng(50.2842212306, 57.1943139046), weight: 2.0},
-{location: new google.maps.LatLng(50.2824454187, 57.2244251975), weight: 1.0},
-{location: new google.maps.LatLng(50.3109741808, 57.1480410024), weight: 2.0},
-{location: new google.maps.LatLng(50.2811217497, 57.2941245915), weight: 1.0},
-{location: new google.maps.LatLng(50.284878047, 57.2043362544), weight: 1.0},
-{location: new google.maps.LatLng(50.2869998797, 57.2616267486), weight: 1.0},
-{location: new google.maps.LatLng(50.3095062262, 57.1494962834), weight: 2.0},
-{location: new google.maps.LatLng(50.3008697338, 57.1613853469), weight: 1.0},
-{location: new google.maps.LatLng(50.2958355277, 57.1699725169), weight: 1.0},
-{location: new google.maps.LatLng(50.2796130198, 57.2317712122), weight: 4.0},
-{location: new google.maps.LatLng(50.3202273731, 57.1481019503), weight: 1.0},
-{location: new google.maps.LatLng(50.2769579666, 57.2278013692), weight: 2.0},
-{location: new google.maps.LatLng(50.2949369689, 57.1578629472), weight: 1.0},
-{location: new google.maps.LatLng(50.2923669753, 57.2294387248), weight: 2.0},
-{location: new google.maps.LatLng(50.2757400904, 57.1956131812), weight: 1.0},
-{location: new google.maps.LatLng(50.3032792519, 57.1588936553), weight: 2.0},
-{location: new google.maps.LatLng(50.3194005296, 57.1454327455), weight: 2.0},
-{location: new google.maps.LatLng(50.2978290605, 57.198767699), weight: 2.0},
-{location: new google.maps.LatLng(50.3075236008, 57.155390114), weight: 2.0},
-{location: new google.maps.LatLng(50.299077626, 57.1467250103), weight: 1.0},
-{location: new google.maps.LatLng(50.2962488516, 57.1558199639), weight: 1.0},
-{location: new google.maps.LatLng(50.3049090158, 57.15579081), weight: 2.0},
-{location: new google.maps.LatLng(50.3084153709, 57.1606576807), weight: 2.0},
-{location: new google.maps.LatLng(50.296176912, 57.2112613275), weight: 1.0},
-{location: new google.maps.LatLng(50.283734502, 57.2000055647), weight: 2.0},
-{location: new google.maps.LatLng(50.2817361279, 57.1703893369), weight: 1.0},
-{location: new google.maps.LatLng(50.2791057378, 57.2270125676), weight: 1.0},
-{location: new google.maps.LatLng(50.2793331424, 57.2170787278), weight: 2.0},
-{location: new google.maps.LatLng(50.2804366048, 57.229089461), weight: 4.0},
-{location: new google.maps.LatLng(50.3143735179, 57.1357664915), weight: 2.0},
-{location: new google.maps.LatLng(50.2649157954, 57.2355974743), weight: 1.0},
-{location: new google.maps.LatLng(50.3041169915, 57.1538866183), weight: 1.0},
-{location: new google.maps.LatLng(50.2777854093, 57.2316011043), weight: 2.0},
-{location: new google.maps.LatLng(50.2594591848, 57.2358733768), weight: 1.0},
-{location: new google.maps.LatLng(50.3128080486, 57.1625696221), weight: 1.0},
-{location: new google.maps.LatLng(50.282543387, 57.1631649998), weight: 2.0},
-{location: new google.maps.LatLng(50.2957688145, 57.1538039816), weight: 1.0},
-{location: new google.maps.LatLng(50.2970039567, 57.1585097989), weight: 2.0},
-{location: new google.maps.LatLng(50.2793175614, 57.2230480352), weight: 2.0},
-{location: new google.maps.LatLng(50.3039324497, 57.1508906208), weight: 2.0},
-{location: new google.maps.LatLng(50.2030159093, 57.2759595595), weight: 1.0},
-{location: new google.maps.LatLng(50.2993155452, 57.1513399009), weight: 2.0},
-{location: new google.maps.LatLng(50.2519568244, 57.248166794), weight: 1.0},
-{location: new google.maps.LatLng(50.308525257, 57.1580010635), weight: 1.0},
-{location: new google.maps.LatLng(50.2707385308, 57.2057155097), weight: 1.0},
-{location: new google.maps.LatLng(50.3024421379, 57.2127146224), weight: 4.0},
-{location: new google.maps.LatLng(50.2802901812, 57.1772921673), weight: 1.0},
-{location: new google.maps.LatLng(50.2892988062, 57.2537448096), weight: 2.0},
-{location: new google.maps.LatLng(50.307619142, 57.1505649212), weight: 1.0},
-{location: new google.maps.LatLng(50.2880055971, 57.234060687), weight: 1.0},
-{location: new google.maps.LatLng(50.2797577822, 57.2261519826), weight: 2.0},
-{location: new google.maps.LatLng(50.3154707424, 57.1362861777), weight: 2.0},
-{location: new google.maps.LatLng(50.3154659926, 57.1553416129), weight: 1.0},
-{location: new google.maps.LatLng(50.2877905259, 57.1710374756), weight: 1.0},
-{location: new google.maps.LatLng(50.315816306, 57.153828538), weight: 1.0},
-{location: new google.maps.LatLng(50.2783002738, 57.2296146102), weight: 2.0},
-{location: new google.maps.LatLng(50.253080785, 57.2386476689), weight: 1.0},
-{location: new google.maps.LatLng(50.2680702294, 57.2343579879), weight: 1.0},
-{location: new google.maps.LatLng(50.2801077961, 57.2298446332), weight: 8.0},
-{location: new google.maps.LatLng(50.2991385679, 57.1625315866), weight: 2.0},
-{location: new google.maps.LatLng(50.2809131037, 57.2249330386), weight: 2.0},
-{location: new google.maps.LatLng(50.2898690204, 57.1466236206), weight: 1.0},
-{location: new google.maps.LatLng(50.288870016, 57.1993674763), weight: 1.0},
-{location: new google.maps.LatLng(50.3009145591, 57.1391836016), weight: 2.0},
-{location: new google.maps.LatLng(50.2571104508, 57.2397867539), weight: 4.0},
-{location: new google.maps.LatLng(50.3074963396, 57.134960357), weight: 1.0},
-{location: new google.maps.LatLng(50.2744976381, 57.2341322459), weight: 1.0},
-{location: new google.maps.LatLng(50.310209203, 57.1529094274), weight: 1.0},
-{location: new google.maps.LatLng(50.2809880502, 57.1590200739), weight: 2.0},
-{location: new google.maps.LatLng(50.2120820423, 57.2749027045), weight: 1.0},
-{location: new google.maps.LatLng(50.3008618001, 57.1984013063), weight: 1.0},
-{location: new google.maps.LatLng(50.3168748481, 57.1270077338), weight: 1.0},
-{location: new google.maps.LatLng(50.2810706937, 57.2267012124), weight: 2.0},
-{location: new google.maps.LatLng(50.2736586387, 57.221545463), weight: 1.0},
-{location: new google.maps.LatLng(50.2974120082, 57.1301980685), weight: 1.0},
-{location: new google.maps.LatLng(50.2564048398, 57.2401719794), weight: 8.0},
-{location: new google.maps.LatLng(50.30268305, 57.2189271321), weight: 2.0},
-{location: new google.maps.LatLng(50.2955905276, 57.2087433888), weight: 1.0},
-{location: new google.maps.LatLng(50.2774394898, 57.2190885151), weight: 1.0},
-{location: new google.maps.LatLng(50.3075801059, 57.1584712185), weight: 1.0},
-{location: new google.maps.LatLng(50.3020774317, 57.1397508211), weight: 2.0},
-{location: new google.maps.LatLng(50.2739964139, 57.2189592773), weight: 1.0},
-{location: new google.maps.LatLng(50.320102759, 57.1447218335), weight: 1.0},
-{location: new google.maps.LatLng(50.2872232068, 57.2220503796), weight: 2.0},
-{location: new google.maps.LatLng(50.3062469974, 57.149319731), weight: 2.0},
-{location: new google.maps.LatLng(50.27840197, 57.2248211504), weight: 1.0},
-{location: new google.maps.LatLng(50.279744043, 57.1762878579), weight: 1.0},
-{location: new google.maps.LatLng(50.3126754341, 57.1407760776), weight: 2.0},
-{location: new google.maps.LatLng(50.3269385813, 57.3403652229), weight: 1.0},
-{location: new google.maps.LatLng(50.2854405087, 57.1677220981), weight: 1.0},
-{location: new google.maps.LatLng(50.3286685618, 57.1508544817), weight: 1.0},
-{location: new google.maps.LatLng(50.2915780638, 57.1265392843), weight: 1.0},
-{location: new google.maps.LatLng(50.276361383, 57.2270195246), weight: 1.0},
-{location: new google.maps.LatLng(50.3048373365, 57.1502058867), weight: 2.0},
-{location: new google.maps.LatLng(50.3023592428, 57.1352377138), weight: 1.0},
-{location: new google.maps.LatLng(50.2889070176, 57.3023640489), weight: 1.0},
-{location: new google.maps.LatLng(50.2909442961, 57.1440495444), weight: 2.0},
-{location: new google.maps.LatLng(50.3014092298, 57.2153733983), weight: 1.0},
-{location: new google.maps.LatLng(50.3168942119, 57.1247296554), weight: 2.0},
-{location: new google.maps.LatLng(50.2922801116, 57.2145244802), weight: 1.0},
-{location: new google.maps.LatLng(50.2961043196, 57.1446971731), weight: 1.0},
-{location: new google.maps.LatLng(50.3027280761, 57.1400656994), weight: 2.0},
-{location: new google.maps.LatLng(50.2811033965, 57.214632342), weight: 8.0},
-{location: new google.maps.LatLng(50.284566831, 57.1642401949), weight: 2.0},
-{location: new google.maps.LatLng(50.3116099591, 57.3035270349), weight: 1.0},
-{location: new google.maps.LatLng(50.2898999546, 57.2169181231), weight: 2.0},
-{location: new google.maps.LatLng(50.2981206466, 57.1448379276), weight: 1.0},
-{location: new google.maps.LatLng(50.2818586314, 57.2244111473), weight: 2.0},
-{location: new google.maps.LatLng(50.2650384519, 57.2068754235), weight: 1.0},
-{location: new google.maps.LatLng(50.2862614194, 57.1651496557), weight: 1.0},
-{location: new google.maps.LatLng(50.271745642, 57.2030825018), weight: 2.0},
-{location: new google.maps.LatLng(50.2762642506, 57.2238966236), weight: 1.0},
-{location: new google.maps.LatLng(50.2776714347, 57.1938138983), weight: 1.0},
-{location: new google.maps.LatLng(50.324921899, 57.3295954925), weight: 1.0},
-{location: new google.maps.LatLng(50.3018897503, 57.2093180269), weight: 2.0},
-{location: new google.maps.LatLng(50.2852717425, 57.1989863294), weight: 1.0},
-{location: new google.maps.LatLng(50.3224254981, 57.1407868657), weight: 2.0},
-{location: new google.maps.LatLng(50.2711257064, 57.2116887803), weight: 1.0},
-{location: new google.maps.LatLng(50.2953207077, 57.1502555654), weight: 1.0},
-{location: new google.maps.LatLng(50.2821382576, 57.268208903), weight: 1.0},
-{location: new google.maps.LatLng(50.2706781614, 57.2353442005), weight: 1.0},
-{location: new google.maps.LatLng(50.2947954324, 57.1601289989), weight: 2.0},
-{location: new google.maps.LatLng(50.2557910641, 57.2402221044), weight: 1.0},
-{location: new google.maps.LatLng(50.2809035037, 57.2239941186), weight: 1.0},
-{location: new google.maps.LatLng(50.3102792673, 57.1490538667), weight: 2.0},
-{location: new google.maps.LatLng(50.2875492927, 57.2250216013), weight: 1.0},
-{location: new google.maps.LatLng(50.307867508, 57.1610781639), weight: 1.0},
-{location: new google.maps.LatLng(50.2672066267, 57.216967714), weight: 1.0},
-{location: new google.maps.LatLng(50.2966970933, 57.225918814), weight: 2.0},
-{location: new google.maps.LatLng(50.2789544373, 57.1928908243), weight: 2.0},
-{location: new google.maps.LatLng(50.2783338262, 57.2264926149), weight: 1.0},
-{location: new google.maps.LatLng(50.269470161, 57.2320279002), weight: 1.0},
-{location: new google.maps.LatLng(50.2915032797, 57.209993402), weight: 1.0},
-{location: new google.maps.LatLng(50.2864371216, 57.2643322982), weight: 1.0},
-{location: new google.maps.LatLng(50.2611394287, 57.2342250118), weight: 1.0},
-{location: new google.maps.LatLng(50.3034765634, 57.2089819433), weight: 1.0},
-{location: new google.maps.LatLng(50.2662872725, 57.2353524984), weight: 1.0},
-{location: new google.maps.LatLng(50.3041545721, 57.1692326419), weight: 1.0},
-{location: new google.maps.LatLng(50.2912572109, 57.2228917486), weight: 1.0},
-{location: new google.maps.LatLng(50.2827988926, 57.2338681069), weight: 1.0},
-{location: new google.maps.LatLng(50.2900989091, 57.2294994122), weight: 1.0},
-{location: new google.maps.LatLng(50.2676673343, 57.198863398), weight: 1.0},
-{location: new google.maps.LatLng(50.3068688888, 57.1533048636), weight: 2.0},
-{location: new google.maps.LatLng(50.2651623446, 57.2333548741), weight: 1.0},
-{location: new google.maps.LatLng(50.3130263363, 57.136804549), weight: 1.0},
-{location: new google.maps.LatLng(50.2880100891, 57.2415291935), weight: 1.0},
-{location: new google.maps.LatLng(50.2919204925, 57.1483483284), weight: 2.0},
-{location: new google.maps.LatLng(50.3116002094, 57.1315883983), weight: 1.0},
-{location: new google.maps.LatLng(50.3068975338, 57.1554801584), weight: 1.0},
-{location: new google.maps.LatLng(50.3208035157, 57.1465198314), weight: 1.0},
-{location: new google.maps.LatLng(50.2810213157, 57.2290453698), weight: 4.0},
-{location: new google.maps.LatLng(50.2862758997, 57.2192264357), weight: 2.0},
-{location: new google.maps.LatLng(50.2964206975, 57.2086116601), weight: 2.0},
-{location: new google.maps.LatLng(50.2780755796, 57.2323314304), weight: 1.0},
-{location: new google.maps.LatLng(50.2838339604, 57.1977402501), weight: 1.0},
-{location: new google.maps.LatLng(50.2803656334, 57.2071768705), weight: 2.0},
-{location: new google.maps.LatLng(50.2711030328, 57.240478336), weight: 1.0},
-{location: new google.maps.LatLng(50.28503979, 57.1670497137), weight: 1.0},
-{location: new google.maps.LatLng(50.2699034346, 57.2175257785), weight: 1.0},
-{location: new google.maps.LatLng(50.2811243271, 57.1960472706), weight: 1.0},
-{location: new google.maps.LatLng(50.2811510642, 57.2261767021), weight: 1.0},
-{location: new google.maps.LatLng(50.305107806, 57.133184019), weight: 1.0},
-{location: new google.maps.LatLng(50.2869051129, 57.2363005673), weight: 2.0},
-{location: new google.maps.LatLng(50.2674413654, 57.2086904114), weight: 1.0},
-{location: new google.maps.LatLng(50.2934615633, 57.2313778582), weight: 1.0},
-{location: new google.maps.LatLng(50.2544450025, 57.2386136251), weight: 2.0},
-{location: new google.maps.LatLng(50.2923190761, 57.1819677155), weight: 1.0},
-{location: new google.maps.LatLng(50.2570578928, 57.243195887), weight: 1.0},
-{location: new google.maps.LatLng(50.3023097371, 57.1536104729), weight: 2.0},
-{location: new google.maps.LatLng(50.2827930114, 57.1702189428), weight: 2.0},
-{location: new google.maps.LatLng(50.2907341866, 57.2269023338), weight: 1.0},
-{location: new google.maps.LatLng(50.3258033733, 57.1471920205), weight: 1.0},
-{location: new google.maps.LatLng(50.309298822, 57.1396345573), weight: 1.0},
-{location: new google.maps.LatLng(50.2876533183, 57.2194863987), weight: 1.0},
-{location: new google.maps.LatLng(50.3038241958, 57.1527324656), weight: 2.0},
-{location: new google.maps.LatLng(50.2892594687, 57.2363681166), weight: 1.0},
-{location: new google.maps.LatLng(50.2817731112, 57.2376885145), weight: 1.0},
-{location: new google.maps.LatLng(50.3196083927, 57.3140074321), weight: 1.0},
-{location: new google.maps.LatLng(50.2817119271, 57.2139765766), weight: 1.0},
-{location: new google.maps.LatLng(50.3147126077, 57.1505101645), weight: 2.0},
-{location: new google.maps.LatLng(50.270984968, 57.2373261093), weight: 1.0},
-{location: new google.maps.LatLng(50.3111064772, 57.1455503398), weight: 1.0},
-{location: new google.maps.LatLng(50.3128051068, 57.246609507), weight: 1.0},
-{location: new google.maps.LatLng(50.2895995945, 57.1518344972), weight: 1.0},
-{location: new google.maps.LatLng(50.2940559406, 57.2078844443), weight: 1.0},
-{location: new google.maps.LatLng(50.2558673483, 57.2392872622), weight: 1.0},
-{location: new google.maps.LatLng(50.2905525026, 57.2111085559), weight: 1.0},
-{location: new google.maps.LatLng(50.2816756171, 57.2165853894), weight: 4.0},
-{location: new google.maps.LatLng(50.3225531171, 57.1554709033), weight: 1.0},
-{location: new google.maps.LatLng(50.2371223782, 57.2320122511), weight: 1.0},
-{location: new google.maps.LatLng(50.2819538406, 57.165980408), weight: 1.0},
-{location: new google.maps.LatLng(50.2886251081, 57.2107056885), weight: 1.0},
-{location: new google.maps.LatLng(50.297036395, 57.2068112816), weight: 1.0},
-{location: new google.maps.LatLng(50.2935268715, 57.1533932553), weight: 2.0},
-{location: new google.maps.LatLng(50.2871572316, 57.2230234149), weight: 2.0},
-{location: new google.maps.LatLng(50.2680872794, 57.2083810657), weight: 1.0},
-{location: new google.maps.LatLng(50.298896739, 57.163036398), weight: 1.0},
-{location: new google.maps.LatLng(50.3015913481, 57.1677206294), weight: 2.0},
-{location: new google.maps.LatLng(50.2815534006, 57.2384497261), weight: 1.0},
-{location: new google.maps.LatLng(50.2872663126, 57.1676509845), weight: 1.0},
-{location: new google.maps.LatLng(50.277169662, 57.2107276097), weight: 1.0},
-{location: new google.maps.LatLng(50.3002397759, 57.1415075668), weight: 1.0},
-{location: new google.maps.LatLng(50.2834616656, 57.2250630709), weight: 2.0},
-{location: new google.maps.LatLng(50.3000283965, 57.1659930727), weight: 1.0},
-{location: new google.maps.LatLng(50.2959932019, 57.1742172689), weight: 2.0},
-{location: new google.maps.LatLng(50.289640463, 57.2521442572), weight: 1.0},
-{location: new google.maps.LatLng(50.2917799999, 57.2055525584), weight: 1.0},
-{location: new google.maps.LatLng(50.2850599838, 57.1580662174), weight: 1.0},
-{location: new google.maps.LatLng(50.2781621237, 57.1982609485), weight: 1.0},
-{location: new google.maps.LatLng(50.284710502, 57.1946175729), weight: 1.0},
-{location: new google.maps.LatLng(50.3247105532, 57.1436965502), weight: 1.0},
-{location: new google.maps.LatLng(50.3359429716, 57.1557223326), weight: 1.0},
-{location: new google.maps.LatLng(50.3102755014, 57.1459317599), weight: 1.0},
-{location: new google.maps.LatLng(50.2847148712, 57.1957715548), weight: 1.0},
-{location: new google.maps.LatLng(50.2974285414, 57.2120422726), weight: 1.0},
-{location: new google.maps.LatLng(50.2806309093, 57.2664074), weight: 2.0},
-{location: new google.maps.LatLng(50.2863852133, 57.2342363583), weight: 2.0},
-{location: new google.maps.LatLng(50.277332765, 57.1957360791), weight: 2.0},
-{location: new google.maps.LatLng(50.284664386, 57.2385729734), weight: 1.0},
-{location: new google.maps.LatLng(50.3251041808, 57.1452382618), weight: 2.0},
-{location: new google.maps.LatLng(50.267260819, 57.20289614), weight: 1.0},
-{location: new google.maps.LatLng(50.3188634962, 57.1344800293), weight: 1.0},
-{location: new google.maps.LatLng(50.2890578788, 57.1721875454), weight: 2.0},
-{location: new google.maps.LatLng(50.2819124507, 57.2459984161), weight: 1.0},
-{location: new google.maps.LatLng(50.2774357147, 57.2282278408), weight: 1.0},
-{location: new google.maps.LatLng(50.2855758742, 57.2157353254), weight: 2.0},
-{location: new google.maps.LatLng(50.3292240688, 57.151443717), weight: 2.0},
-{location: new google.maps.LatLng(50.3021829151, 57.1406953698), weight: 1.0},
-{location: new google.maps.LatLng(50.2595865487, 57.2377408614), weight: 1.0},
-{location: new google.maps.LatLng(50.2855578417, 57.2935284348), weight: 1.0},
-{location: new google.maps.LatLng(50.2893650319, 57.2166257709), weight: 1.0},
-{location: new google.maps.LatLng(50.3182583778, 57.1311955239), weight: 2.0},
-{location: new google.maps.LatLng(50.2927770918, 57.1511294562), weight: 2.0},
-{location: new google.maps.LatLng(50.2910550291, 57.156268175), weight: 4.0},
-{location: new google.maps.LatLng(50.2905416287, 57.1670577418), weight: 2.0},
-{location: new google.maps.LatLng(50.2632596587, 57.2310908344), weight: 1.0},
-{location: new google.maps.LatLng(50.2615786391, 57.2238587202), weight: 1.0},
-{location: new google.maps.LatLng(50.309302738, 57.1484888345), weight: 1.0},
-{location: new google.maps.LatLng(50.3007552829, 57.1497937392), weight: 1.0},
-{location: new google.maps.LatLng(50.28973357, 57.1673783399), weight: 2.0},
-{location: new google.maps.LatLng(50.2807322743, 57.2170907232), weight: 2.0},
-{location: new google.maps.LatLng(50.2721774803, 57.2378348901), weight: 1.0},
-{location: new google.maps.LatLng(50.2993463928, 57.153159846), weight: 2.0},
-{location: new google.maps.LatLng(50.3156316789, 57.1389379479), weight: 2.0},
-{location: new google.maps.LatLng(50.2965289133, 57.1699531555), weight: 1.0},
-{location: new google.maps.LatLng(50.2787976591, 57.2177639892), weight: 2.0},
-{location: new google.maps.LatLng(50.2993679512, 57.1547730381), weight: 1.0},
-{location: new google.maps.LatLng(50.2862155613, 57.2021192127), weight: 2.0},
-{location: new google.maps.LatLng(50.297272125, 57.1725842979), weight: 2.0},
-{location: new google.maps.LatLng(50.3220630705, 57.1362845984), weight: 1.0},
-{location: new google.maps.LatLng(50.2985584939, 57.1710640646), weight: 2.0},
-{location: new google.maps.LatLng(50.2841326318, 57.2282235706), weight: 1.0},
-{location: new google.maps.LatLng(50.284690857, 57.2114898837), weight: 2.0},
-{location: new google.maps.LatLng(50.2720718257, 57.2155267953), weight: 2.0},
-{location: new google.maps.LatLng(50.3027429182, 57.1592983897), weight: 2.0},
-{location: new google.maps.LatLng(50.3118035336, 57.297725427), weight: 1.0},
-{location: new google.maps.LatLng(50.3137239356, 57.2524016034), weight: 1.0},
-{location: new google.maps.LatLng(50.3041483082, 57.1583025907), weight: 1.0},
-{location: new google.maps.LatLng(50.2969176243, 57.1364989898), weight: 2.0},
-{location: new google.maps.LatLng(50.2872482044, 57.157136327), weight: 2.0},
-{location: new google.maps.LatLng(50.2794690215, 57.2253012773), weight: 1.0},
-{location: new google.maps.LatLng(50.3038328763, 57.1634920124), weight: 1.0},
-{location: new google.maps.LatLng(50.2798768113, 57.2677298358), weight: 2.0},
+50.2929008285,57.2247848931,1.0
+50.3236113752,57.3262148982,1.0
+50.2841531977,57.1971634093,2.0
+50.2819082035,57.2265466357,2.0
+50.2966016881,57.1579794367,1.0
+50.2843100921,57.1724905236,1.0
+50.2955578779,57.1450176113,2.0
+50.2942762915,57.2284524442,1.0
+50.2707451159,57.2091685385,1.0
+50.2856273801,57.2561624289,1.0
+50.2890050351,57.1535413522,1.0
+50.294692485,57.1428277225,1.0
+50.3158161753,57.1273747407,1.0
+50.2743849881,57.2508795976,1.0
+50.284566831,57.1642401949,2.0
+50.2816687188,57.1959179179,2.0
+50.3043996728,57.1363678817,1.0
+50.3145847058,57.1335453993,2.0
+50.2849480841,57.229325358,2.0
+50.2965974016,57.1725430035,2.0
+50.3145810731,57.1403340974,1.0
+50.2808459352,57.2234078784,1.0
+50.3172446381,57.3166469104,1.0
+50.2815439247,57.2218194444,2.0
+50.285326585,57.2366749605,1.0
+50.2860140166,57.2362494822,1.0
+50.2917954837,57.1519749483,2.0
+50.2669354109,57.2394392366,1.0
+50.2105044488,57.2716644701,1.0
+50.3218687663,57.1396081896,1.0
+50.2684815269,57.2077171926,1.0
+50.2853601115,57.1784825279,1.0
+50.2894588113,57.1460993088,1.0
+50.310209203,57.1529094274,1.0
+50.2968213904,57.2020943201,1.0
+50.3173502827,57.1439385642,1.0
+50.2890195247,57.1959176603,1.0
+50.3162992107,57.1311752949,1.0
+50.3269385813,57.3403652229,1.0
+50.3289259897,57.1496179196,1.0
+50.269276092,57.2079987355,1.0
+50.2680872794,57.2083810657,1.0
+50.2888472459,57.1707155834,1.0
+50.2965627167,57.2195512716,1.0
+50.2712402763,57.2076531818,1.0
+50.2757288528,57.1871918916,2.0
+50.2974398566,57.2231233831,1.0
+50.2561917182,57.2415244925,1.0
+50.253080785,57.2386476689,1.0
+50.2770653252,57.2247128048,1.0
+50.2923247061,57.1630331278,2.0
+50.2952647392,57.1991920051,2.0
+50.2949293531,57.1417195576,1.0
+50.3020534438,57.1633063153,1.0
+50.2881677689,57.1526603478,1.0
+50.2809254573,57.226881426,1.0
+50.314403101,57.1469931045,1.0
+50.2663093554,57.2435488016,1.0
+50.3025456291,57.1554399375,2.0
+50.3027011933,57.1525090462,1.0
+50.3076324236,57.1568380979,2.0
+50.2815395286,57.2371707317,1.0
+50.2711030328,57.240478336,1.0
+50.319976748,57.3149988783,1.0
+50.3053242784,57.1615494886,1.0
+50.2814250397,57.1625787116,1.0
+50.281966459,57.223674608,1.0
+50.3130966432,57.1305573958,1.0
+50.2833088205,57.2353663854,1.0
+50.2968699252,57.228174762,2.0
+50.3075733067,57.1333664527,2.0
+50.3130911687,57.1451340592,2.0
+50.2721774803,57.2378348901,1.0
+50.2955905276,57.2087433888,1.0
+50.3007616897,57.1322326468,1.0
+50.2901602672,57.1487303537,1.0
+50.2827922339,57.2759344816,2.0
+50.2910913636,57.1747354572,2.0
+50.3000910272,57.1770794192,1.0
+50.2922602195,57.2125411384,2.0
+50.267260819,57.20289614,1.0
+50.3069883412,57.1407267549,1.0
+50.2856877167,57.1624573439,1.0
+50.3103253652,57.1515061448,1.0
+50.3166830822,57.1552547282,1.0
+50.2783338262,57.2264926149,1.0
+50.2577582497,57.2308850535,1.0
+50.2834616656,57.2250630709,2.0
+50.2916108112,57.146830869,1.0
+50.2862758997,57.2192264357,2.0
+50.2812735238,57.2360797338,2.0
+50.2999451727,57.1574916732,1.0
+50.2946810976,57.2266259047,1.0
+50.2824797783,57.1662425074,2.0
+50.2734579852,57.2137991479,1.0
+50.2808184181,57.2356880419,1.0
+50.2577404987,57.2367707524,2.0
+50.3024638433,57.2063925845,1.0
+50.3193253717,57.1524118143,1.0
+50.2881048792,57.1698045251,2.0
+50.2799837555,57.1608647068,2.0
+50.3125819301,57.1430417217,1.0
+50.3017133084,57.1409303408,2.0
+50.2594591848,57.2358733768,1.0
+50.282657215,57.1613912571,2.0
+50.281635706,57.155954356,1.0
+50.3319242094,57.3438398374,1.0
+50.2897247271,57.2283935385,1.0
+50.2944577692,57.2061971254,1.0
+50.2949844744,57.1672401723,1.0
+50.2929250743,57.167050057,1.0
+50.2964206975,57.2086116601,2.0
+50.2957688145,57.1538039816,1.0
+50.3114139245,57.1477217884,1.0
+50.2851892227,57.1964231558,1.0
+50.2916213167,57.2181896199,1.0
+50.2687152045,57.2372475798,1.0
+50.2884566816,57.2291605464,2.0
+50.2837378278,57.160389142,2.0
+50.308369096,57.1499869467,1.0
+50.284710502,57.1946175729,1.0
+50.2631906438,57.2073956726,1.0
+50.2885140046,57.1502890741,1.0
+50.3172148535,57.1314299776,1.0
+50.278841155,57.2029561496,1.0
+50.3130766181,57.2540159397,2.0
+50.2931641857,57.217840135,2.0
+50.2548351655,57.2438584705,2.0
+50.2899555134,57.1655871121,2.0
+50.256521975,57.2464566598,1.0
+50.2800796387,57.2269369567,1.0
+50.2972546742,57.2026619609,1.0
+50.2778633421,57.1986706597,2.0
+50.299227824,57.1417911985,2.0
+50.2970881223,57.22688139,1.0
+50.3090176038,57.2922850096,1.0
+50.2674413654,57.2086904114,1.0
+50.2990612441,57.1412743719,1.0
+50.2705700034,57.2114187111,1.0
+50.2890834581,57.2050631992,1.0
+50.2982003021,57.1441270436,2.0
+50.2731408489,57.2320117661,4.0
+50.2952597267,57.2160156239,1.0
+50.2877147521,57.1562279115,1.0
+50.2838070527,57.1945991324,1.0
+50.2719977425,57.2183918906,1.0
+50.3109641856,57.1470834627,2.0
+50.2866383187,57.1476437062,2.0
+50.3027429182,57.1592983897,2.0
+50.2874667851,57.2260338095,1.0
+50.2952754582,57.1413136083,2.0
+50.3166492574,57.1344305915,1.0
+50.2850126761,57.2257070938,2.0
+50.2970719345,57.1624858875,2.0
+50.281282484,57.2286388752,2.0
+50.2811746937,57.2186414578,1.0
+50.284114165,57.1441603046,2.0
+50.2989150763,57.2250427441,1.0
+50.2804533805,57.2298462727,1.0
+50.2761816497,57.1889787445,1.0
+50.2930066205,57.2052271237,1.0
+50.2811864061,57.1697748919,1.0
+50.2639722308,57.232480536,1.0
+50.289640463,57.2521442572,1.0
+50.2690579416,57.2413769103,2.0
+50.2751872856,57.2058939267,2.0
+50.2838751377,57.2016480789,1.0
+50.2807024819,57.2363894196,1.0
+50.2857100355,57.1716795939,1.0
+50.2757400904,57.1956131812,1.0
+50.2811243271,57.1960472706,1.0
+50.3125649075,57.1478179105,1.0
+50.2869998797,57.2616267486,1.0
+50.3039962333,57.1565772819,1.0
+50.2616835695,57.2316975708,1.0
+50.3055259662,57.1539917658,1.0
+50.2844823106,57.1649994425,1.0
+50.269147124,57.2147462837,1.0
+50.2674258204,57.2370907212,1.0
+50.2872028887,57.2210666584,1.0
+50.2873134523,57.1557683897,2.0
+44.873163367,65.4862314222,1.0
+50.3101146799,57.1436421705,1.0
+50.2862614194,57.1651496557,1.0
+50.2748402556,57.1975724814,1.0
+50.2865726332,57.1950754037,2.0
+50.2872248816,57.1957383808,1.0
+50.27895655,57.1669096302,2.0
+50.2984605506,57.2086095944,1.0
+50.2722768803,57.2263770496,2.0
+50.3111926006,57.1516529746,1.0
+50.268045748,57.2316947557,1.0
+50.2843382713,57.1492727859,1.0
+50.2776714347,57.1938138983,1.0
+50.2898535531,57.2225958987,1.0
+50.2827930114,57.1702189428,2.0
+50.2854860022,57.2290805881,1.0
+50.2965641702,57.1636688726,2.0
+50.276102977,57.1881803265,1.0
+50.3047293541,57.162730789,1.0
+50.2740934593,57.1881484723,2.0
+50.3073703391,57.1529013424,1.0
+50.2650978583,57.2297705625,2.0
+50.2571104508,57.2397867539,4.0
+50.2857675008,57.2372744859,1.0
+50.2705471243,57.2015745775,2.0
+50.280003179,57.2232506757,2.0
+50.3171171208,57.132531131,1.0
+50.3026038847,57.1562684904,2.0
+50.2872232068,57.2220503796,2.0
+50.3136216752,57.1420733241,1.0
+50.2842212306,57.1943139046,2.0
+50.2904996522,57.2028552376,2.0
+50.2955742603,57.1449858963,1.0
+50.2914920975,57.2157994206,1.0
+50.2935849639,57.214076665,1.0
+50.3026623435,57.1372057857,1.0
+50.2934333141,57.215024938,1.0
+50.2815661227,57.2005345544,2.0
+50.2993050134,57.2141866742,1.0
+50.2784753146,57.2292735758,1.0
+50.2665379353,57.2215559823,2.0
+50.2843817603,57.198590566,2.0
+50.2969072649,57.136486659,1.0
+50.2839440299,57.2234761152,2.0
+50.2898713086,57.2856332089,1.0
+50.3161751154,57.1233709708,2.0
+50.2699037619,57.2296544335,1.0
+50.2795892435,57.2339938948,1.0
+50.2822995571,57.1638607182,2.0
+50.2705879863,57.2033726424,1.0
+50.2860536193,57.2266164259,2.0
+50.2897241495,57.2570144323,1.0
+50.2952429245,57.2036911566,1.0
+50.279301262,57.2244656924,2.0
+50.2883578366,57.1986715631,1.0
+50.3175617508,57.1447555955,1.0
+50.3084912236,57.1411200709,1.0
+50.3086412495,57.1320375921,4.0
+50.2850547704,57.1554389823,1.0
+50.2782614657,57.2184509859,1.0
+50.2979925289,57.1709364023,2.0
+50.2534752011,57.2373828136,1.0
+50.2891220867,57.1983163876,1.0
+50.2947954324,57.1601289989,2.0
+50.2855758742,57.2157353254,2.0
+50.2691588786,57.1966859924,1.0
+50.2863649056,57.2273948551,2.0
+50.305755619,57.1625106658,2.0
+50.2742801865,57.2295300995,1.0
+50.2854903997,57.1637387135,2.0
+50.2019901353,57.2887070237,1.0
+50.2860344856,57.1510139951,1.0
+50.2995723273,57.1415043427,1.0
+50.3101014452,57.1466736812,1.0
+50.3033511118,57.1569716208,2.0
+50.2755782716,57.2044008626,1.0
+50.293813034,57.211164547,2.0
+50.317387789,57.1289194714,1.0
+50.27774039,57.2249237081,1.0
+50.3185138878,57.1494310935,1.0
+50.3117242389,57.1374146631,1.0
+50.2841568025,57.2154011741,1.0
+50.2940705382,57.1615995095,1.0
+50.2940929454,57.2495943657,1.0
+50.2771794139,57.2260672091,2.0
+50.2909442961,57.1440495444,2.0
+50.2884323616,57.172658038,1.0
+50.308525257,57.1580010635,1.0
+50.3291403423,57.3328925767,1.0
+50.283187991,57.1594394826,1.0
+50.2834880587,57.2261268175,4.0
+50.2779393392,57.1904001366,2.0
+50.2910595559,57.2364737997,1.0
+50.2786162534,57.2143380911,2.0
+50.3193401588,57.1275426626,1.0
+50.3016028982,57.2077808558,1.0
+50.2949044557,57.2055662306,1.0
+50.2758646177,57.2229035421,2.0
+50.2519568244,57.248166794,1.0
+50.2919071465,57.2163722308,2.0
+50.2737619457,57.231181426,1.0
+50.3002540326,57.136869491,2.0
+50.3214971032,57.1500829557,1.0
+50.2757036852,57.2268800292,2.0
+50.2538385981,57.2483010974,1.0
+50.2872482044,57.157136327,2.0
+50.2788760511,57.1955471247,2.0
+50.2912646301,57.2089998314,1.0
+50.287222203,57.1584347053,2.0
+50.3012214426,57.1651423981,1.0
+50.297918097,57.1581592872,1.0
+50.2679188167,57.2412132285,1.0
+50.2750848263,57.2269897452,1.0
+50.2975625115,57.2244970902,2.0
+50.2912697065,57.2218132778,1.0
+50.2708931849,57.2435474189,1.0
+50.2729327908,57.2046683533,1.0
+50.3194005296,57.1454327455,2.0
+50.2925497854,57.2585926238,1.0
+50.3188065245,57.145342688,1.0
+50.2991608577,57.1702652902,1.0
+50.2838899499,57.2442360048,1.0
+50.2855260062,57.2245175998,4.0
+50.2865776004,57.1609542762,1.0
+50.2817731112,57.2376885145,1.0
+50.2960066865,57.2249277531,2.0
+50.2932308732,57.1733485039,1.0
+50.2924294645,57.2225503393,1.0
+50.2706781614,57.2353442005,1.0
+50.316792116,57.1456564814,1.0
+50.307175336,57.1412399729,1.0
+50.2834497736,57.1679846632,2.0
+50.278524545,57.2304625796,2.0
+50.3014092298,57.2153733983,1.0
+50.3017318573,57.1452485849,1.0
+50.2782174144,57.2346356051,1.0
+50.315755952,57.1422363435,1.0
+50.2944389044,57.1845341977,1.0
+50.3046097346,57.1362240278,2.0
+50.2895995945,57.1518344972,1.0
+50.3109741808,57.1480410024,2.0
+50.3161500501,57.1323482882,1.0
+50.2831977595,57.2239473073,1.0
+50.2862988333,57.2140130697,2.0
+50.3154966026,57.2417091208,1.0
+50.3005580925,57.1609145604,1.0
+50.2915032797,57.209993402,1.0
+50.2787210304,57.2336783451,2.0
+50.2823885056,57.2866363147,1.0
+50.3020559842,57.1665352238,2.0
+50.2970719614,57.2091054935,1.0
+50.2972628363,57.1629800637,2.0
+50.2852068065,57.2279514302,1.0
+50.3128548909,57.1383967082,2.0
+50.2856167458,57.2259333562,2.0
+50.2992374368,57.1793102156,1.0
+50.2662872725,57.2353524984,1.0
+50.2649157954,57.2355974743,1.0
+50.3073315321,57.1500430427,1.0
+50.2924178598,57.2237929584,1.0
+50.2651198323,57.2127168147,1.0
+50.2811509242,57.2209905077,1.0
+50.3138060554,57.1330105352,1.0
+50.2653613805,57.2485669566,1.0
+50.2927408587,57.1496828062,2.0
+50.3036749056,57.1369350975,2.0
+50.3033022966,57.1405155913,2.0
+50.2861013972,57.2347906317,1.0
+50.3067279309,57.1424065739,1.0
+50.2909168383,57.1821641909,1.0
+50.2809278566,57.2154660006,2.0
+50.3184421641,57.3337147662,1.0
+50.2827237412,57.1515334097,2.0
+50.279540692,57.2185957587,1.0
+50.2954277849,57.1984257478,2.0
+50.277695992,57.1996904622,2.0
+50.298945568,57.1608341223,2.0
+50.2927759508,57.2077721777,1.0
+50.2840979527,57.2800379401,1.0
+50.2845886987,57.2122303849,1.0
+50.2695771345,57.2451194681,1.0
+50.2822199856,57.2174375972,2.0
+50.310874655,57.135875628,1.0
+50.3083590698,57.1312852279,1.0
+50.2955385351,57.217490943,1.0
+50.2950779396,57.2315549902,2.0
+50.2872275656,57.2131447577,1.0
+50.2853163173,57.1548462666,1.0
+50.2951266139,57.2216774538,1.0
+50.3125830927,57.1331729472,1.0
+50.2816756171,57.2165853894,4.0
+50.2901828015,57.2191390284,2.0
+50.2915600065,57.1692788595,2.0
+50.2875492927,57.2250216013,1.0
+50.2968165267,57.2130780197,1.0
+50.2815534006,57.2384497261,1.0
+50.2914118958,57.2135886565,1.0
+50.2510761086,57.2426316499,1.0
+50.212967695,57.2719104531,1.0
+50.2794614409,57.1707498516,1.0
+50.2979872806,57.1639608374,1.0
+50.2896199521,57.1697627992,2.0
+50.2960311316,57.1985844879,1.0
+50.2744976381,57.2341322459,1.0
+50.3118035336,57.297725427,1.0
+50.2748982491,57.2070833155,2.0
+50.2936075788,57.1991701629,1.0
+50.2960807656,57.161526892,1.0
+50.305107806,57.133184019,1.0
+50.3295036607,57.2804938231,1.0
+50.2816570831,57.2167344866,2.0
+50.2936840303,57.1602238452,2.0
+50.2783002738,57.2296146102,2.0
+50.2974285414,57.2120422726,1.0
+50.2935268715,57.1533932553,2.0
+50.2992476396,57.164718148,1.0
+50.3102755014,57.1459317599,1.0
+50.273924545,57.2328261522,2.0
+50.3008891452,57.1588311928,1.0
+50.2844416029,57.1577514156,1.0
+50.2750780189,57.2135029298,1.0
+50.2689752209,57.2142030049,1.0
+50.3068688888,57.1533048636,2.0
+50.2846862249,57.1621490005,2.0
+50.2740070148,57.1871874533,2.0
+50.3125164442,57.1471573926,1.0
+50.2984517492,57.1579793873,1.0
+50.3211623205,57.1321047994,1.0
+50.2672066267,57.216967714,1.0
+50.2696287319,57.1982674053,1.0
+50.282188066,57.1645381721,2.0
+50.2924901977,57.1524722115,2.0
+50.2560772388,57.2282345298,2.0
+50.2925438713,57.2572126782,1.0
+50.2978290605,57.198767699,2.0
+50.283421228,57.2228236993,1.0
+50.2766481148,57.1922429064,1.0
+50.2905409257,57.2302855972,1.0
+50.2917070158,57.2259221522,1.0
+50.2832967599,57.2034400924,2.0
+50.3130278857,57.1400325161,2.0
+50.2873157513,57.1476423612,2.0
+50.2902803636,57.2547753645,1.0
+50.2869674777,57.169975166,2.0
+50.3234694403,57.1434144538,1.0
+50.3125423412,57.1319733424,4.0
+50.3002921103,57.1621662432,1.0
+50.2800046336,57.1647897829,1.0
+50.2838339604,57.1977402501,1.0
+50.2803005801,57.1619983055,1.0
+50.313873223,57.1441468417,2.0
+50.3075801059,57.1584712185,1.0
+50.2869780003,57.1790240931,2.0
+50.2674002238,57.211709087,1.0
+50.2856231382,57.2130292969,1.0
+50.2880055971,57.234060687,1.0
+50.3154659926,57.1553416129,1.0
+50.3070621621,57.1516104149,2.0
+50.2873241165,57.2115055381,1.0
+50.2871572316,57.2230234149,2.0
+50.2762425827,57.1933246866,1.0
+50.3004613062,57.225062391,2.0
+50.2901815595,57.1802355771,1.0
+50.2938065757,57.1684279772,2.0
+50.2813917339,57.2161576384,2.0
+50.2791997907,57.1621730533,1.0
+50.2937407295,57.2297409473,1.0
+50.324437413,57.3330869358,1.0
+50.2764182699,57.2299978249,2.0
+50.2945434411,57.1717421057,2.0
+50.2882834593,57.1617232631,2.0
+50.2928634492,57.2068815748,1.0
+50.2985784838,57.1410278895,1.0
+50.2977629884,57.2159723609,1.0
+50.2712232752,57.2357918961,2.0
+50.3140772793,57.140699746,2.0
+50.2824618731,57.2085062505,1.0
+50.3208035157,57.1465198314,1.0
+50.2885279716,57.1602519208,1.0
+50.3207278975,57.3186484543,1.0
+50.2847969421,57.226580142,1.0
+50.2943700906,57.1501231366,2.0
+50.300575869,57.2173252214,1.0
+50.2812860712,57.2244930175,2.0
+50.2916680684,57.21147504,1.0
+50.2774078158,57.2254730264,2.0
+50.2634900508,57.2124556708,2.0
+50.3003033092,57.15928252,2.0
+50.3005173446,57.1501838267,2.0
+50.2841399963,57.2187059509,1.0
+50.3002426592,57.2055754059,1.0
+50.2895389929,57.1964277929,1.0
+50.3166180392,57.1435274963,2.0
+50.3065213722,57.1358775803,2.0
+50.278501452,57.2280900074,2.0
+50.2798676574,57.21641097,2.0
+50.3178855063,57.1539434043,2.0
+50.2729726683,57.2072501732,1.0
+50.2503004511,57.2436902282,1.0
+50.290854139,57.1449342813,2.0
+50.2817102545,57.2337316257,1.0
+50.3177953324,57.1500814518,2.0
+50.2792203905,57.2339314349,4.0
+50.2784862141,57.231968544,2.0
+50.3158804389,57.1264995753,1.0
+50.291119401,57.1601122199,1.0
+50.2577728751,57.2362009332,1.0
+50.2811510642,57.2261767021,1.0
+50.2826586759,57.2169358439,2.0
+50.2671551591,57.2137998365,1.0
+50.273402025,57.1878315872,2.0
+50.3137314071,57.1477522456,2.0
+50.3060554894,57.1471725618,2.0
+50.3042714566,57.2105727874,2.0
+50.2736949646,57.2325368534,1.0
+50.2799669218,57.225726073,1.0
+50.2663918729,57.2158019255,2.0
+50.3097006328,57.1590180424,2.0
+50.3313543794,57.320845331,1.0
+50.2859707384,57.1578258652,1.0
+50.3140444154,57.2995085657,1.0
+50.2852679959,57.2140662817,2.0
+50.2790646356,57.2104501554,1.0
+50.3188363162,57.1484376588,2.0
+50.2814701793,57.1997813009,2.0
+50.2957115983,57.1663245242,2.0
+50.2947690131,57.2025525035,1.0
+50.2735512255,57.227837914,1.0
+50.2914835407,57.2077464026,1.0
+50.2738791325,57.1934844633,2.0
+50.3157528186,57.1523392837,1.0
+50.2803625464,57.2273103669,4.0
+50.3167929359,57.1516807391,2.0
+50.2797963597,57.205362543,1.0
+50.2925529059,57.2057923634,1.0
+50.288061236,57.169898125,1.0
+50.2638155852,57.214123216,1.0
+50.2955386943,57.206433566,1.0
+50.2905416287,57.1670577418,2.0
+50.2679474286,57.2077679963,2.0
+50.2711984975,57.2427531591,1.0
+50.2810344484,57.2195557906,2.0
+50.2748195207,57.2315497026,2.0
+50.2887919711,57.1660423452,2.0
+50.2924647403,57.1497170333,2.0
+50.2854447274,57.2267254882,2.0
+50.3055341553,57.2132763535,2.0
+50.2852615337,57.1617647318,1.0
+50.289106718,57.2574222627,1.0
+50.3178997895,57.1425275469,1.0
+50.2811217497,57.2941245915,1.0
+50.3227817047,57.1433829752,1.0
+50.2868216682,57.2080341345,1.0
+50.261107732,57.2074961833,2.0
+50.2973852519,57.197878102,1.0
+50.2881436634,57.2778321434,1.0
+50.2926547226,57.1425918944,1.0
+50.2793175614,57.2230480352,2.0
+50.2908388691,57.2037637542,1.0
+50.3174222002,57.1493563498,1.0
+50.3189845597,57.3165432492,1.0
+50.2882899659,57.228222719,1.0
+50.3159696537,57.1299911975,1.0
+50.2872220255,57.1776925066,1.0
+50.2899311259,57.1968722626,1.0
+50.2699367654,57.2280377848,1.0
+50.2953207609,57.1541377817,1.0
+50.2866794329,57.164348501,1.0
+50.3035724825,57.1517694273,2.0
+50.2781621237,57.1982609485,1.0
+50.297179562,57.1529980706,1.0
+50.3114655046,57.1457912971,2.0
+50.289395104,57.2377866405,2.0
+50.3292240688,57.151443717,2.0
+50.2537464483,57.2385452291,1.0
+50.2824043482,57.235540713,2.0
+50.29774604,57.1659087194,2.0
+50.3008327378,57.1678491592,4.0
+50.2879638552,57.1518236725,1.0
+50.2855218949,57.1589340234,2.0
+50.3073704579,57.1314766768,1.0
+50.2830604954,57.1578632033,2.0
+50.2562761019,57.2436459487,4.0
+50.2882152449,57.1471173667,1.0
+50.2992266282,57.1498861861,1.0
+50.3082326392,57.15500998,1.0
+50.3090485889,57.1563497118,1.0
+50.2864510613,57.1979857466,1.0
+50.2905897273,57.1698964848,1.0
+50.2660563896,57.2082745364,1.0
+50.3054769493,57.2817598749,1.0
+50.2617138236,57.2088881471,1.0
+50.2948437356,57.1709572324,2.0
+50.3103349879,57.1484993761,2.0
+50.2944083248,57.1710700244,1.0
+50.2789544373,57.1928908243,2.0
+50.2698102926,57.2072266329,2.0
+50.2923669753,57.2294387248,2.0
+50.289898757,57.1713389429,1.0
+50.2739485589,57.2249181152,1.0
+50.3031090522,57.148315689,1.0
+50.2846000201,57.2244173777,2.0
+50.2736586387,57.221545463,1.0
+50.2718572258,57.2366084992,2.0
+50.3063777938,57.1521966421,1.0
+50.2898768349,57.2246848076,1.0
+50.3065770055,57.1550084567,1.0
+50.2903298606,57.1680464876,1.0
+50.2821016414,57.2230725755,2.0
+50.2948758545,57.1485185016,2.0
+50.3005802529,57.2024520695,1.0
+50.2487599396,57.2406957494,1.0
+50.2510316477,57.2440016707,1.0
+50.2850528078,57.2185272913,1.0
+50.2925505278,57.2023194999,1.0
+50.2774357147,57.2282278408,1.0
+50.2934300668,57.1737189089,2.0
+50.3132526316,57.1312481606,2.0
+50.2777854093,57.2316011043,2.0

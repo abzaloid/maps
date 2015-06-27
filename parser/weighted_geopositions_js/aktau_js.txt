@@ -1,600 +1,600 @@
-{location: new google.maps.LatLng(43.6704410753, 51.1702918291), weight: 1.0},
-{location: new google.maps.LatLng(43.6536024885, 51.1452712426), weight: 1.0},
-{location: new google.maps.LatLng(43.6448791084, 51.1534997572), weight: 1.0},
-{location: new google.maps.LatLng(43.6394890435, 51.1746052378), weight: 1.0},
-{location: new google.maps.LatLng(43.6619307959, 51.1573579028), weight: 1.0},
-{location: new google.maps.LatLng(43.6339588645, 51.1821611466), weight: 1.0},
-{location: new google.maps.LatLng(43.6627262129, 51.1589014058), weight: 1.0},
-{location: new google.maps.LatLng(43.653588584, 51.1464332203), weight: 1.0},
-{location: new google.maps.LatLng(43.6291336018, 51.1647968232), weight: 1.0},
-{location: new google.maps.LatLng(43.662606963, 51.1421039899), weight: 1.0},
-{location: new google.maps.LatLng(43.6734207176, 51.1602177907), weight: 1.0},
-{location: new google.maps.LatLng(43.6562719818, 51.150937479), weight: 1.0},
-{location: new google.maps.LatLng(43.657987343, 51.1664607922), weight: 1.0},
-{location: new google.maps.LatLng(43.636741148, 51.1705327735), weight: 1.0},
-{location: new google.maps.LatLng(43.6520658056, 51.2183219113), weight: 1.0},
-{location: new google.maps.LatLng(43.6326834232, 51.180234503), weight: 1.0},
-{location: new google.maps.LatLng(43.6479076151, 51.1598132936), weight: 1.0},
-{location: new google.maps.LatLng(43.6396719869, 51.1675014401), weight: 1.0},
-{location: new google.maps.LatLng(43.635353379, 51.1854554092), weight: 1.0},
-{location: new google.maps.LatLng(43.6329054814, 51.1778174309), weight: 1.0},
-{location: new google.maps.LatLng(43.6461974413, 51.1646796015), weight: 1.0},
-{location: new google.maps.LatLng(43.6373452722, 51.1732426938), weight: 1.0},
-{location: new google.maps.LatLng(43.6590061848, 51.1381171749), weight: 1.0},
-{location: new google.maps.LatLng(43.6612701055, 51.1577198572), weight: 1.0},
-{location: new google.maps.LatLng(43.6325090129, 51.1621665349), weight: 1.0},
-{location: new google.maps.LatLng(43.6371178601, 51.1625278481), weight: 1.0},
-{location: new google.maps.LatLng(43.6463942539, 51.156496417), weight: 1.0},
-{location: new google.maps.LatLng(43.6292280823, 51.1658561154), weight: 1.0},
-{location: new google.maps.LatLng(43.6391016569, 51.174662821), weight: 1.0},
-{location: new google.maps.LatLng(43.6372839494, 51.1877674861), weight: 1.0},
-{location: new google.maps.LatLng(43.6450467987, 51.1751725629), weight: 1.0},
-{location: new google.maps.LatLng(43.6682251059, 51.1624644322), weight: 1.0},
-{location: new google.maps.LatLng(43.6603326324, 51.1643221106), weight: 1.0},
-{location: new google.maps.LatLng(43.6418296909, 51.1637075257), weight: 1.0},
-{location: new google.maps.LatLng(43.6602831581, 51.1380492817), weight: 1.0},
-{location: new google.maps.LatLng(43.6672766866, 51.1644630764), weight: 1.0},
-{location: new google.maps.LatLng(43.6726617283, 51.1647226293), weight: 1.0},
-{location: new google.maps.LatLng(43.6555628465, 51.1524673558), weight: 1.0},
-{location: new google.maps.LatLng(43.6534370831, 51.1571839061), weight: 1.0},
-{location: new google.maps.LatLng(43.6513364284, 51.1449787497), weight: 1.0},
-{location: new google.maps.LatLng(43.6547883944, 51.1406235099), weight: 1.0},
-{location: new google.maps.LatLng(43.6443355233, 51.1672428212), weight: 1.0},
-{location: new google.maps.LatLng(43.6413434056, 51.1611151224), weight: 1.0},
-{location: new google.maps.LatLng(43.6738562174, 51.17097076), weight: 1.0},
-{location: new google.maps.LatLng(43.6442162655, 51.1684415467), weight: 1.0},
-{location: new google.maps.LatLng(43.6417390269, 51.1545658753), weight: 1.0},
-{location: new google.maps.LatLng(43.6332250398, 51.1628142905), weight: 1.0},
-{location: new google.maps.LatLng(43.6361597678, 51.1846426001), weight: 1.0},
-{location: new google.maps.LatLng(43.6338316206, 51.1748553039), weight: 1.0},
-{location: new google.maps.LatLng(43.6627629517, 51.1669184393), weight: 1.0},
-{location: new google.maps.LatLng(43.6629641594, 51.1676989296), weight: 1.0},
-{location: new google.maps.LatLng(43.6473618148, 51.1617971505), weight: 1.0},
-{location: new google.maps.LatLng(43.6450255602, 51.1578058229), weight: 1.0},
-{location: new google.maps.LatLng(43.6728323356, 51.160333258), weight: 1.0},
-{location: new google.maps.LatLng(43.6527923084, 51.1448866801), weight: 1.0},
-{location: new google.maps.LatLng(43.6571472372, 51.1704423238), weight: 1.0},
-{location: new google.maps.LatLng(43.6627269146, 51.1582096093), weight: 1.0},
-{location: new google.maps.LatLng(43.6347728961, 51.1593839907), weight: 1.0},
-{location: new google.maps.LatLng(43.6458626276, 51.1748159593), weight: 1.0},
-{location: new google.maps.LatLng(43.6300864585, 51.1659780017), weight: 1.0},
-{location: new google.maps.LatLng(43.6519820345, 51.2182483719), weight: 1.0},
-{location: new google.maps.LatLng(43.6356567684, 51.1796590388), weight: 1.0},
-{location: new google.maps.LatLng(43.6686262158, 51.1655093679), weight: 1.0},
-{location: new google.maps.LatLng(43.6440203633, 51.1675121672), weight: 1.0},
-{location: new google.maps.LatLng(43.6556690821, 51.1515432177), weight: 1.0},
-{location: new google.maps.LatLng(43.6543710598, 51.1511548631), weight: 1.0},
-{location: new google.maps.LatLng(43.6614063041, 51.1436672945), weight: 1.0},
-{location: new google.maps.LatLng(43.6377390571, 51.1840525072), weight: 1.0},
-{location: new google.maps.LatLng(43.6459270067, 51.1581960326), weight: 1.0},
-{location: new google.maps.LatLng(43.6650559973, 51.1654011255), weight: 1.0},
-{location: new google.maps.LatLng(43.6483778991, 51.1491431344), weight: 1.0},
-{location: new google.maps.LatLng(43.6389912504, 51.1565809403), weight: 1.0},
-{location: new google.maps.LatLng(43.6419144813, 51.160429349), weight: 1.0},
-{location: new google.maps.LatLng(43.641741325, 51.1545631747), weight: 1.0},
-{location: new google.maps.LatLng(43.6623059124, 51.1599939052), weight: 1.0},
-{location: new google.maps.LatLng(43.6724953967, 51.1613420129), weight: 1.0},
-{location: new google.maps.LatLng(43.6688127827, 51.1585233992), weight: 1.0},
-{location: new google.maps.LatLng(43.6656465501, 51.1651576646), weight: 1.0},
-{location: new google.maps.LatLng(43.6386696127, 51.179460212), weight: 1.0},
-{location: new google.maps.LatLng(43.6644902613, 51.1694757917), weight: 1.0},
-{location: new google.maps.LatLng(43.6679843409, 51.1648382272), weight: 1.0},
-{location: new google.maps.LatLng(43.6375783003, 51.1785502089), weight: 1.0},
-{location: new google.maps.LatLng(43.6420442118, 51.1694862086), weight: 1.0},
-{location: new google.maps.LatLng(43.6477375067, 51.1617994944), weight: 1.0},
-{location: new google.maps.LatLng(43.6542156826, 51.1588577136), weight: 1.0},
-{location: new google.maps.LatLng(43.6325105406, 51.1621643704), weight: 1.0},
-{location: new google.maps.LatLng(43.6663819275, 51.1370894868), weight: 1.0},
-{location: new google.maps.LatLng(43.6671972937, 51.1515260143), weight: 1.0},
-{location: new google.maps.LatLng(43.671312501, 51.1588019252), weight: 1.0},
-{location: new google.maps.LatLng(43.6503012777, 51.1467907726), weight: 1.0},
-{location: new google.maps.LatLng(43.6524829159, 51.1701962789), weight: 1.0},
-{location: new google.maps.LatLng(43.6673807321, 51.1397377964), weight: 1.0},
-{location: new google.maps.LatLng(43.6525447972, 51.2184483332), weight: 1.0},
-{location: new google.maps.LatLng(43.6629269051, 51.1633513191), weight: 1.0},
-{location: new google.maps.LatLng(43.6714817456, 51.1596482604), weight: 1.0},
-{location: new google.maps.LatLng(43.6676766959, 51.1379838233), weight: 1.0},
-{location: new google.maps.LatLng(43.6372479518, 51.186327083), weight: 1.0},
-{location: new google.maps.LatLng(43.6392311791, 51.1577334148), weight: 1.0},
-{location: new google.maps.LatLng(43.6556954818, 51.1591108332), weight: 1.0},
-{location: new google.maps.LatLng(43.6479904552, 51.1633193667), weight: 1.0},
-{location: new google.maps.LatLng(43.6642600654, 51.1589047174), weight: 1.0},
-{location: new google.maps.LatLng(43.656946985, 51.1401966827), weight: 1.0},
-{location: new google.maps.LatLng(43.6685051442, 51.1688295658), weight: 1.0},
-{location: new google.maps.LatLng(43.6392798854, 51.1756019193), weight: 1.0},
-{location: new google.maps.LatLng(43.638823054, 51.1772863673), weight: 1.0},
-{location: new google.maps.LatLng(43.6625093176, 51.157139141), weight: 1.0},
-{location: new google.maps.LatLng(43.656792958, 51.1491381999), weight: 1.0},
-{location: new google.maps.LatLng(43.6647362146, 51.1598491178), weight: 1.0},
-{location: new google.maps.LatLng(43.6570118909, 51.1420860376), weight: 1.0},
-{location: new google.maps.LatLng(43.6648529973, 51.1539070298), weight: 1.0},
-{location: new google.maps.LatLng(43.6424183756, 51.1694165301), weight: 1.0},
-{location: new google.maps.LatLng(43.6642250454, 51.1637011145), weight: 1.0},
-{location: new google.maps.LatLng(43.6459149682, 51.1551807142), weight: 1.0},
-{location: new google.maps.LatLng(43.6595866542, 51.1697098951), weight: 1.0},
-{location: new google.maps.LatLng(43.6461461562, 51.1626184202), weight: 1.0},
-{location: new google.maps.LatLng(43.6571958391, 51.1501296146), weight: 1.0},
-{location: new google.maps.LatLng(43.6385948321, 51.175078811), weight: 1.0},
-{location: new google.maps.LatLng(43.6399505826, 51.1813253399), weight: 1.0},
-{location: new google.maps.LatLng(43.630743965, 51.1651337924), weight: 1.0},
-{location: new google.maps.LatLng(43.6633651237, 51.141773498), weight: 1.0},
-{location: new google.maps.LatLng(43.6364766129, 51.1760212419), weight: 1.0},
-{location: new google.maps.LatLng(43.6470667663, 51.1657759903), weight: 1.0},
-{location: new google.maps.LatLng(43.63992942, 51.1822116955), weight: 1.0},
-{location: new google.maps.LatLng(43.6411712111, 51.1691057239), weight: 1.0},
-{location: new google.maps.LatLng(43.6370952007, 51.1726076809), weight: 1.0},
-{location: new google.maps.LatLng(43.665640547, 51.1348165513), weight: 1.0},
-{location: new google.maps.LatLng(43.6376970832, 51.1727830269), weight: 1.0},
-{location: new google.maps.LatLng(43.6486963415, 51.1516296248), weight: 1.0},
-{location: new google.maps.LatLng(43.636766093, 51.1726153159), weight: 1.0},
-{location: new google.maps.LatLng(43.6547841819, 51.1406232374), weight: 1.0},
-{location: new google.maps.LatLng(43.6461433074, 51.1626156234), weight: 1.0},
-{location: new google.maps.LatLng(43.6603845728, 51.167307662), weight: 1.0},
-{location: new google.maps.LatLng(43.6349229782, 51.1626348478), weight: 1.0},
-{location: new google.maps.LatLng(43.6434489189, 51.1528056718), weight: 1.0},
-{location: new google.maps.LatLng(43.6542108809, 51.1588547143), weight: 1.0},
-{location: new google.maps.LatLng(43.6458567322, 51.1616754046), weight: 1.0},
-{location: new google.maps.LatLng(43.6379944886, 51.1820139227), weight: 1.0},
-{location: new google.maps.LatLng(43.6374355588, 51.1604786015), weight: 1.0},
-{location: new google.maps.LatLng(43.6370024679, 51.1872529747), weight: 1.0},
-{location: new google.maps.LatLng(43.6590817045, 51.1396424135), weight: 1.0},
-{location: new google.maps.LatLng(43.6636972267, 51.1571444812), weight: 1.0},
-{location: new google.maps.LatLng(43.6400473582, 51.1575606498), weight: 1.0},
-{location: new google.maps.LatLng(43.6701256226, 51.1708529956), weight: 1.0},
-{location: new google.maps.LatLng(43.6642224889, 51.1461805131), weight: 1.0},
-{location: new google.maps.LatLng(43.6500797858, 51.1446940903), weight: 1.0},
-{location: new google.maps.LatLng(43.6633843446, 51.1427834274), weight: 1.0},
-{location: new google.maps.LatLng(43.6538223304, 51.1543581627), weight: 1.0},
-{location: new google.maps.LatLng(43.6662312226, 51.1331273946), weight: 1.0},
-{location: new google.maps.LatLng(43.6471165891, 51.1514815896), weight: 1.0},
-{location: new google.maps.LatLng(43.6440824186, 51.1554167028), weight: 1.0},
-{location: new google.maps.LatLng(43.670163125, 51.1677894269), weight: 1.0},
-{location: new google.maps.LatLng(43.6389691975, 51.1780464725), weight: 1.0},
-{location: new google.maps.LatLng(43.6635308721, 51.1482143553), weight: 1.0},
-{location: new google.maps.LatLng(43.6363605867, 51.1649138656), weight: 1.0},
-{location: new google.maps.LatLng(43.6578991769, 51.1425870923), weight: 1.0},
-{location: new google.maps.LatLng(43.663127381, 51.1384644344), weight: 1.0},
-{location: new google.maps.LatLng(43.633593855, 51.162340194), weight: 1.0},
-{location: new google.maps.LatLng(43.638694984, 51.1865659048), weight: 1.0},
-{location: new google.maps.LatLng(43.6359012767, 51.1767699159), weight: 1.0},
-{location: new google.maps.LatLng(43.6536869266, 51.1421004685), weight: 1.0},
-{location: new google.maps.LatLng(43.6335127318, 51.1806777677), weight: 1.0},
-{location: new google.maps.LatLng(43.634775571, 51.1593810108), weight: 1.0},
-{location: new google.maps.LatLng(43.6656464769, 51.1651605785), weight: 1.0},
-{location: new google.maps.LatLng(43.6573448305, 51.1561961252), weight: 1.0},
-{location: new google.maps.LatLng(43.643712448, 51.1554088831), weight: 1.0},
-{location: new google.maps.LatLng(43.6391874654, 51.168110989), weight: 1.0},
-{location: new google.maps.LatLng(43.6510392523, 51.1437215782), weight: 1.0},
-{location: new google.maps.LatLng(43.6384345037, 51.1837461256), weight: 1.0},
-{location: new google.maps.LatLng(43.6616298752, 51.1587579724), weight: 1.0},
-{location: new google.maps.LatLng(43.6652985851, 51.1440593867), weight: 1.0},
-{location: new google.maps.LatLng(43.6407294677, 51.1720282585), weight: 1.0},
-{location: new google.maps.LatLng(43.635150163, 51.1658287214), weight: 1.0},
-{location: new google.maps.LatLng(43.6622660898, 51.1675227526), weight: 1.0},
-{location: new google.maps.LatLng(43.6385035598, 51.1831922232), weight: 1.0},
-{location: new google.maps.LatLng(43.6718025096, 51.1610419073), weight: 1.0},
-{location: new google.maps.LatLng(43.6403431177, 51.1695310635), weight: 1.0},
-{location: new google.maps.LatLng(43.6548504681, 51.1527121866), weight: 1.0},
-{location: new google.maps.LatLng(43.655036522, 51.1581482085), weight: 1.0},
-{location: new google.maps.LatLng(43.6462886485, 51.1488319043), weight: 1.0},
-{location: new google.maps.LatLng(43.6497154733, 51.1538745579), weight: 1.0},
-{location: new google.maps.LatLng(43.6365069462, 51.1720823491), weight: 1.0},
-{location: new google.maps.LatLng(43.6474397353, 51.1657880299), weight: 1.0},
-{location: new google.maps.LatLng(43.6639675639, 51.1678518151), weight: 1.0},
-{location: new google.maps.LatLng(43.6391623755, 51.1584945585), weight: 1.0},
-{location: new google.maps.LatLng(43.6675169549, 51.1414126073), weight: 1.0},
-{location: new google.maps.LatLng(43.643621231, 51.1642066316), weight: 1.0},
-{location: new google.maps.LatLng(43.6465460348, 51.1571794483), weight: 1.0},
-{location: new google.maps.LatLng(43.6664442358, 51.1715513162), weight: 1.0},
-{location: new google.maps.LatLng(43.6612547547, 51.1634996851), weight: 1.0},
-{location: new google.maps.LatLng(43.6446834694, 51.1560224494), weight: 1.0},
-{location: new google.maps.LatLng(43.647648026, 51.1515680843), weight: 1.0},
-{location: new google.maps.LatLng(43.6447981228, 51.1622805045), weight: 1.0},
-{location: new google.maps.LatLng(43.6474790247, 51.1593901236), weight: 1.0},
-{location: new google.maps.LatLng(43.6572817673, 51.1381873334), weight: 1.0},
-{location: new google.maps.LatLng(43.6426045033, 51.1653202134), weight: 1.0},
-{location: new google.maps.LatLng(43.649638673, 51.1490923433), weight: 1.0},
-{location: new google.maps.LatLng(43.6642615262, 51.1589069039), weight: 1.0},
-{location: new google.maps.LatLng(43.6559331718, 51.1499960471), weight: 1.0},
-{location: new google.maps.LatLng(43.6468301735, 51.1477417826), weight: 1.0},
-{location: new google.maps.LatLng(43.648884702, 51.1664730494), weight: 1.0},
-{location: new google.maps.LatLng(43.6319383693, 51.1644829047), weight: 1.0},
-{location: new google.maps.LatLng(43.6713991666, 51.1684270929), weight: 1.0},
-{location: new google.maps.LatLng(43.6389884572, 51.1740163754), weight: 1.0},
-{location: new google.maps.LatLng(43.646838378, 51.1486440571), weight: 1.0},
-{location: new google.maps.LatLng(43.6591742483, 51.1489149247), weight: 1.0},
-{location: new google.maps.LatLng(43.6335605462, 51.1660537566), weight: 1.0},
-{location: new google.maps.LatLng(43.6546271329, 51.1450050364), weight: 1.0},
-{location: new google.maps.LatLng(43.6558530426, 51.1436358257), weight: 1.0},
-{location: new google.maps.LatLng(43.6470060345, 51.1472580324), weight: 1.0},
-{location: new google.maps.LatLng(43.6387213255, 51.1764075382), weight: 1.0},
-{location: new google.maps.LatLng(43.6413657207, 51.1641635218), weight: 1.0},
-{location: new google.maps.LatLng(43.6459834865, 51.1528191516), weight: 1.0},
-{location: new google.maps.LatLng(43.6540650513, 51.1522401816), weight: 1.0},
-{location: new google.maps.LatLng(43.6397931659, 51.1632125417), weight: 1.0},
-{location: new google.maps.LatLng(43.6413411893, 51.161112411), weight: 1.0},
-{location: new google.maps.LatLng(43.6425930641, 51.1704694393), weight: 1.0},
-{location: new google.maps.LatLng(43.6677528213, 51.162474177), weight: 1.0},
-{location: new google.maps.LatLng(43.6660422917, 51.1719618033), weight: 1.0},
-{location: new google.maps.LatLng(43.6644921737, 51.1694770153), weight: 1.0},
-{location: new google.maps.LatLng(43.645513318, 51.1776509589), weight: 1.0},
-{location: new google.maps.LatLng(43.6454339872, 51.155853377), weight: 1.0},
-{location: new google.maps.LatLng(43.6708120621, 51.1669614548), weight: 1.0},
-{location: new google.maps.LatLng(43.6386532835, 51.1786340489), weight: 1.0},
-{location: new google.maps.LatLng(43.6344231958, 51.1745971472), weight: 1.0},
-{location: new google.maps.LatLng(43.6607271047, 51.1651022448), weight: 1.0},
-{location: new google.maps.LatLng(43.6459123534, 51.15517705), weight: 1.0},
-{location: new google.maps.LatLng(43.6679866141, 51.1605325298), weight: 1.0},
-{location: new google.maps.LatLng(43.6491151193, 51.1531278354), weight: 1.0},
-{location: new google.maps.LatLng(43.6610220635, 51.169161804), weight: 1.0},
-{location: new google.maps.LatLng(43.6708958236, 51.1733425857), weight: 1.0},
-{location: new google.maps.LatLng(43.6468449376, 51.1719234349), weight: 1.0},
-{location: new google.maps.LatLng(43.6723133598, 51.1685189979), weight: 1.0},
-{location: new google.maps.LatLng(43.6381311102, 51.1731735191), weight: 1.0},
-{location: new google.maps.LatLng(43.650104675, 51.1513842709), weight: 1.0},
-{location: new google.maps.LatLng(43.6344231086, 51.1745942073), weight: 1.0},
-{location: new google.maps.LatLng(43.6572756979, 51.1714037596), weight: 1.0},
-{location: new google.maps.LatLng(43.6712084461, 51.172598885), weight: 1.0},
-{location: new google.maps.LatLng(43.6675137477, 51.1698762775), weight: 1.0},
-{location: new google.maps.LatLng(43.6628715149, 51.1705353817), weight: 1.0},
-{location: new google.maps.LatLng(43.662305096, 51.1599987114), weight: 1.0},
-{location: new google.maps.LatLng(43.6600995794, 51.171286724), weight: 1.0},
-{location: new google.maps.LatLng(43.666536015, 51.1620855769), weight: 1.0},
-{location: new google.maps.LatLng(43.6543754112, 51.1511542802), weight: 1.0},
-{location: new google.maps.LatLng(43.6642238898, 51.1636976526), weight: 1.0},
-{location: new google.maps.LatLng(43.6585012541, 51.1525105639), weight: 1.0},
-{location: new google.maps.LatLng(43.640373909, 51.1558979009), weight: 1.0},
-{location: new google.maps.LatLng(43.6631780183, 51.1701458488), weight: 1.0},
-{location: new google.maps.LatLng(43.6346884425, 51.1824693891), weight: 1.0},
-{location: new google.maps.LatLng(43.6565935235, 51.1443024153), weight: 1.0},
-{location: new google.maps.LatLng(43.663647638, 51.1625610362), weight: 1.0},
-{location: new google.maps.LatLng(43.6554667154, 51.1427384658), weight: 1.0},
-{location: new google.maps.LatLng(43.6617402667, 51.1696024888), weight: 1.0},
-{location: new google.maps.LatLng(43.6397126638, 51.1712566027), weight: 1.0},
-{location: new google.maps.LatLng(43.6542468701, 51.1513051112), weight: 1.0},
-{location: new google.maps.LatLng(43.6699069474, 51.1584517875), weight: 1.0},
-{location: new google.maps.LatLng(43.6501072907, 51.1534878124), weight: 1.0},
-{location: new google.maps.LatLng(43.6637612457, 51.1460388213), weight: 1.0},
-{location: new google.maps.LatLng(43.6364103234, 51.1769423248), weight: 1.0},
-{location: new google.maps.LatLng(43.6308315844, 51.1665421525), weight: 1.0},
-{location: new google.maps.LatLng(43.6685725267, 51.1388354121), weight: 1.0},
-{location: new google.maps.LatLng(43.6603312979, 51.1551470108), weight: 1.0},
-{location: new google.maps.LatLng(43.6482743256, 51.1646759666), weight: 1.0},
-{location: new google.maps.LatLng(43.6404207017, 51.170947385), weight: 1.0},
-{location: new google.maps.LatLng(43.6436421715, 51.1754808875), weight: 1.0},
-{location: new google.maps.LatLng(43.6670121965, 51.1579191104), weight: 1.0},
-{location: new google.maps.LatLng(43.6682243888, 51.1624607343), weight: 1.0},
-{location: new google.maps.LatLng(43.635841182, 51.1800951053), weight: 1.0},
-{location: new google.maps.LatLng(43.647058475, 51.171356554), weight: 1.0},
-{location: new google.maps.LatLng(43.6385574642, 51.1727429355), weight: 1.0},
-{location: new google.maps.LatLng(43.667513702, 51.1389565383), weight: 1.0},
-{location: new google.maps.LatLng(43.6639212365, 51.152232694), weight: 1.0},
-{location: new google.maps.LatLng(43.6466817767, 51.1657856963), weight: 1.0},
-{location: new google.maps.LatLng(43.6672844985, 51.1624882853), weight: 1.0},
-{location: new google.maps.LatLng(43.6356558847, 51.1628825953), weight: 1.0},
-{location: new google.maps.LatLng(43.6560748548, 51.153001183), weight: 1.0},
-{location: new google.maps.LatLng(43.6590526834, 51.1368763823), weight: 1.0},
-{location: new google.maps.LatLng(43.6586277825, 51.1471420181), weight: 1.0},
-{location: new google.maps.LatLng(43.6401900962, 51.1747759741), weight: 1.0},
-{location: new google.maps.LatLng(43.6508788613, 51.1527320763), weight: 1.0},
-{location: new google.maps.LatLng(43.6394774396, 51.1725284034), weight: 1.0},
-{location: new google.maps.LatLng(43.658736415, 51.1416805958), weight: 1.0},
-{location: new google.maps.LatLng(43.6506192121, 51.150205449), weight: 1.0},
-{location: new google.maps.LatLng(43.6525063432, 51.2173701271), weight: 1.0},
-{location: new google.maps.LatLng(43.6343546546, 51.1597821282), weight: 1.0},
-{location: new google.maps.LatLng(43.6507323118, 51.1550486118), weight: 1.0},
-{location: new google.maps.LatLng(43.6496350818, 51.1490881978), weight: 1.0},
-{location: new google.maps.LatLng(43.6581528263, 51.1374655248), weight: 1.0},
-{location: new google.maps.LatLng(43.6452759608, 51.1728574303), weight: 1.0},
-{location: new google.maps.LatLng(43.6424134823, 51.159954746), weight: 1.0},
-{location: new google.maps.LatLng(43.6642952093, 51.140571732), weight: 1.0},
-{location: new google.maps.LatLng(43.6322676083, 51.1671196379), weight: 1.0},
-{location: new google.maps.LatLng(43.664855934, 51.1539032092), weight: 1.0},
-{location: new google.maps.LatLng(43.659811652, 51.149574647), weight: 1.0},
-{location: new google.maps.LatLng(43.663175245, 51.1681809617), weight: 1.0},
-{location: new google.maps.LatLng(43.6463218109, 51.1670261797), weight: 1.0},
-{location: new google.maps.LatLng(43.6305496371, 51.1642232811), weight: 1.0},
-{location: new google.maps.LatLng(43.6379817431, 51.177761062), weight: 1.0},
-{location: new google.maps.LatLng(43.6601052563, 51.1655651781), weight: 1.0},
-{location: new google.maps.LatLng(43.6435661395, 51.1682757887), weight: 1.0},
-{location: new google.maps.LatLng(43.6613811235, 51.1528242097), weight: 1.0},
-{location: new google.maps.LatLng(43.648698004, 51.1516287308), weight: 1.0},
-{location: new google.maps.LatLng(43.6450280459, 51.1649010274), weight: 1.0},
-{location: new google.maps.LatLng(43.6501114333, 51.1534876578), weight: 1.0},
-{location: new google.maps.LatLng(43.634878154, 51.1752971177), weight: 1.0},
-{location: new google.maps.LatLng(43.6621988588, 51.1594294592), weight: 1.0},
-{location: new google.maps.LatLng(43.6357253016, 51.1835940963), weight: 1.0},
-{location: new google.maps.LatLng(43.6660320916, 51.1604519435), weight: 1.0},
-{location: new google.maps.LatLng(43.64040939, 51.1689277409), weight: 1.0},
-{location: new google.maps.LatLng(43.6311577447, 51.1638032072), weight: 1.0},
-{location: new google.maps.LatLng(43.6489202146, 51.1653128594), weight: 1.0},
-{location: new google.maps.LatLng(43.636514695, 51.1847274056), weight: 1.0},
-{location: new google.maps.LatLng(43.6637017744, 51.1571479672), weight: 1.0},
-{location: new google.maps.LatLng(43.6571735653, 51.1545276371), weight: 1.0},
-{location: new google.maps.LatLng(43.654581539, 51.1539661715), weight: 1.0},
-{location: new google.maps.LatLng(43.6446018664, 51.1915940592), weight: 1.0},
-{location: new google.maps.LatLng(43.6427077503, 51.1596413106), weight: 1.0},
-{location: new google.maps.LatLng(43.6645500765, 51.1514156605), weight: 1.0},
-{location: new google.maps.LatLng(43.6645967724, 51.1662232119), weight: 1.0},
-{location: new google.maps.LatLng(43.6330780221, 51.176060539), weight: 1.0},
-{location: new google.maps.LatLng(43.634533486, 51.1619059448), weight: 1.0},
-{location: new google.maps.LatLng(43.6533089779, 51.1522363286), weight: 1.0},
-{location: new google.maps.LatLng(43.6702117457, 51.1605638002), weight: 1.0},
-{location: new google.maps.LatLng(43.6346389923, 51.164164905), weight: 1.0},
-{location: new google.maps.LatLng(43.6408359783, 51.1590834372), weight: 1.0},
-{location: new google.maps.LatLng(43.666902806, 51.134222283), weight: 1.0},
-{location: new google.maps.LatLng(43.6635313105, 51.1500798596), weight: 1.0},
-{location: new google.maps.LatLng(43.6715397142, 51.1740958222), weight: 1.0},
-{location: new google.maps.LatLng(43.6450264568, 51.1649068323), weight: 1.0},
-{location: new google.maps.LatLng(43.6388195378, 51.1772883766), weight: 1.0},
-{location: new google.maps.LatLng(43.6448798682, 51.1535036683), weight: 1.0},
-{location: new google.maps.LatLng(43.6450482632, 51.1544530562), weight: 1.0},
-{location: new google.maps.LatLng(43.6637571692, 51.1460387509), weight: 1.0},
-{location: new google.maps.LatLng(43.6315352925, 51.166611818), weight: 1.0},
-{location: new google.maps.LatLng(43.6621392352, 51.1455469861), weight: 1.0},
-{location: new google.maps.LatLng(43.6792917647, 51.1644992581), weight: 1.0},
-{location: new google.maps.LatLng(43.645061941, 51.1558499318), weight: 1.0},
-{location: new google.maps.LatLng(43.6623843033, 51.147896341), weight: 1.0},
-{location: new google.maps.LatLng(43.6681795496, 51.1398750678), weight: 1.0},
-{location: new google.maps.LatLng(43.6527884178, 51.1448899996), weight: 1.0},
-{location: new google.maps.LatLng(43.6370338848, 51.1836138302), weight: 1.0},
-{location: new google.maps.LatLng(43.6357671762, 51.162234995), weight: 1.0},
-{location: new google.maps.LatLng(43.6437149204, 51.155413615), weight: 1.0},
-{location: new google.maps.LatLng(43.6374832789, 51.1768413379), weight: 1.0},
-{location: new google.maps.LatLng(43.6382778894, 51.1798108251), weight: 1.0},
-{location: new google.maps.LatLng(43.6658046211, 51.1637739334), weight: 1.0},
-{location: new google.maps.LatLng(43.6400482056, 51.1575577753), weight: 1.0},
-{location: new google.maps.LatLng(43.6533227302, 51.1459153794), weight: 1.0},
-{location: new google.maps.LatLng(43.6429762916, 51.1653161102), weight: 1.0},
-{location: new google.maps.LatLng(43.670039628, 51.1652954686), weight: 1.0},
-{location: new google.maps.LatLng(43.6660303485, 51.1604564019), weight: 1.0},
-{location: new google.maps.LatLng(43.6704684062, 51.1737545373), weight: 1.0},
-{location: new google.maps.LatLng(43.6409852056, 51.170022401), weight: 1.0},
-{location: new google.maps.LatLng(43.6723182146, 51.1636977722), weight: 1.0},
-{location: new google.maps.LatLng(43.6458619086, 51.1748133233), weight: 1.0},
-{location: new google.maps.LatLng(43.6569157846, 51.1392567932), weight: 1.0},
-{location: new google.maps.LatLng(43.634079033, 51.1800481028), weight: 1.0},
-{location: new google.maps.LatLng(43.6673692581, 51.1594588269), weight: 1.0},
-{location: new google.maps.LatLng(43.6331576501, 51.1819762213), weight: 1.0},
-{location: new google.maps.LatLng(43.6419187804, 51.160431536), weight: 1.0},
-{location: new google.maps.LatLng(43.6705222231, 51.1634918157), weight: 1.0},
-{location: new google.maps.LatLng(43.6359642197, 51.1722500113), weight: 1.0},
-{location: new google.maps.LatLng(43.6563737848, 51.1522774666), weight: 1.0},
-{location: new google.maps.LatLng(43.6356064072, 51.1884996783), weight: 1.0},
-{location: new google.maps.LatLng(43.6398115307, 51.1695580936), weight: 1.0},
-{location: new google.maps.LatLng(43.6605636038, 51.1475373829), weight: 1.0},
-{location: new google.maps.LatLng(43.6653775691, 51.172189935), weight: 1.0},
-{location: new google.maps.LatLng(43.6720648884, 51.161792924), weight: 1.0},
-{location: new google.maps.LatLng(43.6631779578, 51.1701498241), weight: 1.0},
-{location: new google.maps.LatLng(43.6650561315, 51.1654003014), weight: 1.0},
-{location: new google.maps.LatLng(43.6592641904, 51.1514213033), weight: 1.0},
-{location: new google.maps.LatLng(43.6355684151, 51.175957501), weight: 1.0},
-{location: new google.maps.LatLng(43.6527476742, 51.2184236257), weight: 1.0},
-{location: new google.maps.LatLng(43.652502005, 51.1493859916), weight: 1.0},
-{location: new google.maps.LatLng(43.6531348134, 51.2175871991), weight: 1.0},
-{location: new google.maps.LatLng(43.6645951985, 51.166222721), weight: 1.0},
-{location: new google.maps.LatLng(43.6450241661, 51.1578044451), weight: 1.0},
-{location: new google.maps.LatLng(43.6627221856, 51.158206476), weight: 1.0},
-{location: new google.maps.LatLng(43.6382396373, 51.167703191), weight: 1.0},
-{location: new google.maps.LatLng(43.6365100244, 51.1720868552), weight: 1.0},
-{location: new google.maps.LatLng(43.6605719957, 51.1518543856), weight: 1.0},
-{location: new google.maps.LatLng(43.6610351167, 51.1506441252), weight: 1.0},
-{location: new google.maps.LatLng(43.6701648795, 51.1677838436), weight: 1.0},
-{location: new google.maps.LatLng(43.6529233027, 51.2177260143), weight: 1.0},
-{location: new google.maps.LatLng(43.6645986956, 51.1721104039), weight: 1.0},
-{location: new google.maps.LatLng(43.6466130328, 51.1521954885), weight: 1.0},
-{location: new google.maps.LatLng(43.6500570435, 51.1476730232), weight: 1.0},
-{location: new google.maps.LatLng(43.64333471, 51.15540765), weight: 1.0},
-{location: new google.maps.LatLng(43.6608612896, 51.1545340268), weight: 1.0},
-{location: new google.maps.LatLng(43.6573466414, 51.156190065), weight: 1.0},
-{location: new google.maps.LatLng(43.6675976678, 51.1367144508), weight: 1.0},
-{location: new google.maps.LatLng(43.6362934549, 51.1793987241), weight: 1.0},
-{location: new google.maps.LatLng(43.6441253039, 51.1525837326), weight: 1.0},
-{location: new google.maps.LatLng(43.6661569231, 51.164606902), weight: 1.0},
-{location: new google.maps.LatLng(43.634634336, 51.1641638535), weight: 1.0},
-{location: new google.maps.LatLng(43.6523353693, 51.2182644834), weight: 1.0},
-{location: new google.maps.LatLng(43.6518567476, 51.2174691365), weight: 1.0},
-{location: new google.maps.LatLng(43.6386401509, 51.1821509145), weight: 1.0},
-{location: new google.maps.LatLng(43.6706799184, 51.1662609078), weight: 1.0},
-{location: new google.maps.LatLng(43.6370438651, 51.1582786601), weight: 1.0},
-{location: new google.maps.LatLng(43.6580080765, 51.1674631034), weight: 1.0},
-{location: new google.maps.LatLng(43.6827066382, 51.1625503701), weight: 1.0},
-{location: new google.maps.LatLng(43.6353874376, 51.1802427727), weight: 1.0},
-{location: new google.maps.LatLng(43.6584214413, 51.1429619718), weight: 1.0},
-{location: new google.maps.LatLng(43.657489001, 51.1528619423), weight: 1.0},
-{location: new google.maps.LatLng(43.641812777, 51.1581081856), weight: 1.0},
-{location: new google.maps.LatLng(43.6552188127, 51.1503121444), weight: 1.0},
-{location: new google.maps.LatLng(43.6428896686, 51.1756226819), weight: 1.0},
-{location: new google.maps.LatLng(43.6615070415, 51.1511749481), weight: 1.0},
-{location: new google.maps.LatLng(43.6736321406, 51.171287294), weight: 1.0},
-{location: new google.maps.LatLng(43.665854187, 51.1629880534), weight: 1.0},
-{location: new google.maps.LatLng(43.6733248647, 51.1708820979), weight: 1.0},
-{location: new google.maps.LatLng(43.6406894066, 51.1706890261), weight: 1.0},
-{location: new google.maps.LatLng(43.6629006145, 51.1533641877), weight: 1.0},
-{location: new google.maps.LatLng(43.6412012608, 51.155741019), weight: 1.0},
-{location: new google.maps.LatLng(43.6358462601, 51.1875564714), weight: 1.0},
-{location: new google.maps.LatLng(43.653840495, 51.1589849218), weight: 1.0},
-{location: new google.maps.LatLng(43.6374818229, 51.1638040443), weight: 1.0},
-{location: new google.maps.LatLng(43.6632745455, 51.1583616397), weight: 1.0},
-{location: new google.maps.LatLng(43.6677652512, 51.1682011345), weight: 1.0},
-{location: new google.maps.LatLng(43.6392011229, 51.1828610436), weight: 1.0},
-{location: new google.maps.LatLng(43.6391935472, 51.1811479686), weight: 1.0},
-{location: new google.maps.LatLng(43.6672068877, 51.1353254215), weight: 1.0},
-{location: new google.maps.LatLng(43.6381426007, 51.1841485799), weight: 1.0},
-{location: new google.maps.LatLng(43.6339252112, 51.160178702), weight: 1.0},
-{location: new google.maps.LatLng(43.6593998843, 51.1387118624), weight: 1.0},
-{location: new google.maps.LatLng(43.6465897776, 51.1741114488), weight: 1.0},
-{location: new google.maps.LatLng(43.6660403006, 51.1719681409), weight: 1.0},
-{location: new google.maps.LatLng(43.6454699266, 51.1645182042), weight: 1.0},
-{location: new google.maps.LatLng(43.635386163, 51.1847290328), weight: 1.0},
-{location: new google.maps.LatLng(43.6362270633, 51.1728419525), weight: 1.0},
-{location: new google.maps.LatLng(43.6376065306, 51.187121758), weight: 1.0},
-{location: new google.maps.LatLng(43.652359925, 51.2169069698), weight: 1.0},
-{location: new google.maps.LatLng(43.6688128035, 51.15852665), weight: 1.0},
-{location: new google.maps.LatLng(43.6368432168, 51.1848128114), weight: 1.0},
-{location: new google.maps.LatLng(43.6559729567, 51.1512383797), weight: 1.0},
-{location: new google.maps.LatLng(43.6470646116, 51.1657823981), weight: 1.0},
-{location: new google.maps.LatLng(43.6645402001, 51.16312335), weight: 1.0},
-{location: new google.maps.LatLng(43.6675167038, 51.141417874), weight: 1.0},
-{location: new google.maps.LatLng(43.6724720332, 51.1696703608), weight: 1.0},
-{location: new google.maps.LatLng(43.6641065897, 51.1421589682), weight: 1.0},
-{location: new google.maps.LatLng(43.6530945632, 51.156098588), weight: 1.0},
-{location: new google.maps.LatLng(43.66580085, 51.1637724724), weight: 1.0},
-{location: new google.maps.LatLng(43.6389212585, 51.1799353806), weight: 1.0},
-{location: new google.maps.LatLng(43.6389378837, 51.179059128), weight: 1.0},
-{location: new google.maps.LatLng(43.6536862708, 51.1421046935), weight: 1.0},
-{location: new google.maps.LatLng(43.6528525737, 51.2181810815), weight: 1.0},
-{location: new google.maps.LatLng(43.6463702591, 51.175749617), weight: 1.0},
-{location: new google.maps.LatLng(43.6704698703, 51.1737568188), weight: 1.0},
-{location: new google.maps.LatLng(43.6604209334, 51.2497893718), weight: 1.0},
-{location: new google.maps.LatLng(43.6383115436, 51.1586407727), weight: 1.0},
-{location: new google.maps.LatLng(43.656695507, 51.1545547086), weight: 1.0},
-{location: new google.maps.LatLng(43.6346494777, 51.1810589924), weight: 1.0},
-{location: new google.maps.LatLng(43.6662214065, 51.1577796788), weight: 1.0},
-{location: new google.maps.LatLng(43.6391534674, 51.1725295715), weight: 1.0},
-{location: new google.maps.LatLng(43.659089654, 51.1531955243), weight: 1.0},
-{location: new google.maps.LatLng(43.6591763617, 51.1489161107), weight: 1.0},
-{location: new google.maps.LatLng(43.6328691777, 51.163305605), weight: 1.0},
-{location: new google.maps.LatLng(43.6448856351, 51.1682030786), weight: 1.0},
-{location: new google.maps.LatLng(43.6319129235, 51.1822325315), weight: 1.0},
-{location: new google.maps.LatLng(43.6468441741, 51.1719247569), weight: 1.0},
-{location: new google.maps.LatLng(43.6463968028, 51.1564945956), weight: 1.0},
-{location: new google.maps.LatLng(43.6461975516, 51.1733819781), weight: 1.0},
-{location: new google.maps.LatLng(43.6412033072, 51.1557432063), weight: 1.0},
-{location: new google.maps.LatLng(43.6644061198, 51.1728837618), weight: 1.0},
-{location: new google.maps.LatLng(43.6631738323, 51.1681758206), weight: 1.0},
-{location: new google.maps.LatLng(43.6584223926, 51.1429659575), weight: 1.0},
-{location: new google.maps.LatLng(43.6366843769, 51.183794282), weight: 1.0},
-{location: new google.maps.LatLng(43.6655500142, 51.1395429352), weight: 1.0},
-{location: new google.maps.LatLng(43.6717062538, 51.173551487), weight: 1.0},
-{location: new google.maps.LatLng(43.6525791517, 51.2183263868), weight: 1.0},
-{location: new google.maps.LatLng(43.6545774401, 51.1539659846), weight: 1.0},
-{location: new google.maps.LatLng(43.6358202425, 51.184103298), weight: 1.0},
-{location: new google.maps.LatLng(43.6269325502, 51.1996117249), weight: 1.0},
-{location: new google.maps.LatLng(43.6474784847, 51.1527207154), weight: 1.0},
-{location: new google.maps.LatLng(43.6488874391, 51.1664699905), weight: 1.0},
-{location: new google.maps.LatLng(43.6559323211, 51.1499962593), weight: 1.0},
-{location: new google.maps.LatLng(43.651780237, 51.1468336545), weight: 1.0},
-{location: new google.maps.LatLng(43.6631262599, 51.1384628616), weight: 1.0},
-{location: new google.maps.LatLng(43.6533255403, 51.1447750448), weight: 1.0},
-{location: new google.maps.LatLng(43.6527899297, 51.2177914577), weight: 1.0},
-{location: new google.maps.LatLng(43.6579857321, 51.1483670291), weight: 1.0},
-{location: new google.maps.LatLng(43.632986366, 51.167207802), weight: 1.0},
-{location: new google.maps.LatLng(43.6594179626, 51.1504395161), weight: 1.0},
-{location: new google.maps.LatLng(43.6348537976, 51.1783826499), weight: 1.0},
-{location: new google.maps.LatLng(43.6382135438, 51.1828784227), weight: 1.0},
-{location: new google.maps.LatLng(43.6651152279, 51.1627558661), weight: 1.0},
-{location: new google.maps.LatLng(43.6433586949, 51.1653124802), weight: 1.0},
-{location: new google.maps.LatLng(43.6378529697, 51.1831064278), weight: 1.0},
-{location: new google.maps.LatLng(43.638690785, 51.1611233508), weight: 1.0},
-{location: new google.maps.LatLng(43.6412011681, 51.161749623), weight: 1.0},
-{location: new google.maps.LatLng(43.6327583532, 51.1618394354), weight: 1.0},
-{location: new google.maps.LatLng(43.6517063693, 51.1423108355), weight: 1.0},
-{location: new google.maps.LatLng(43.6441885538, 51.1570216804), weight: 1.0},
-{location: new google.maps.LatLng(43.632313347, 51.1640021837), weight: 1.0},
-{location: new google.maps.LatLng(43.6809823726, 51.1620008009), weight: 1.0},
-{location: new google.maps.LatLng(43.6585780949, 51.1669259666), weight: 1.0},
-{location: new google.maps.LatLng(43.6391909994, 51.1681061852), weight: 1.0},
-{location: new google.maps.LatLng(43.6464561168, 51.1749289151), weight: 1.0},
-{location: new google.maps.LatLng(43.6492793105, 51.147363159), weight: 1.0},
-{location: new google.maps.LatLng(43.6538438041, 51.1407160973), weight: 1.0},
-{location: new google.maps.LatLng(43.642419294, 51.1694138036), weight: 1.0},
-{location: new google.maps.LatLng(43.6624486928, 51.1451760688), weight: 1.0},
-{location: new google.maps.LatLng(43.6632853511, 51.1378231721), weight: 1.0},
-{location: new google.maps.LatLng(43.6594440658, 51.1471200473), weight: 1.0},
-{location: new google.maps.LatLng(43.6380811345, 51.1617339139), weight: 1.0},
-{location: new google.maps.LatLng(43.6639315017, 51.1619786892), weight: 1.0},
-{location: new google.maps.LatLng(43.6566961993, 51.1545559719), weight: 1.0},
-{location: new google.maps.LatLng(43.6357293674, 51.1835928459), weight: 1.0},
-{location: new google.maps.LatLng(43.6553016068, 51.1555991158), weight: 1.0},
-{location: new google.maps.LatLng(43.6598812232, 51.1692259003), weight: 1.0},
-{location: new google.maps.LatLng(43.6653883399, 51.1454726394), weight: 1.0},
-{location: new google.maps.LatLng(43.6430882056, 51.1695570886), weight: 1.0},
-{location: new google.maps.LatLng(43.6389283039, 51.1731881394), weight: 1.0},
-{location: new google.maps.LatLng(43.6405539895, 51.1679408681), weight: 1.0},
-{location: new google.maps.LatLng(43.6336927193, 51.1676967074), weight: 1.0},
-{location: new google.maps.LatLng(43.6665083185, 51.1336777321), weight: 1.0},
-{location: new google.maps.LatLng(43.6525165084, 51.2179367645), weight: 1.0},
-{location: new google.maps.LatLng(43.6474371965, 51.1657865413), weight: 1.0},
-{location: new google.maps.LatLng(43.6540147567, 51.1440189435), weight: 1.0},
-{location: new google.maps.LatLng(43.6374153624, 51.1585462797), weight: 1.0},
-{location: new google.maps.LatLng(43.6395275863, 51.1698300725), weight: 1.0},
-{location: new google.maps.LatLng(43.6591617335, 51.1674991856), weight: 1.0},
-{location: new google.maps.LatLng(43.6466851457, 51.1724157637), weight: 1.0},
-{location: new google.maps.LatLng(43.6703297683, 51.1588426747), weight: 1.0},
-{location: new google.maps.LatLng(43.6396087431, 51.1742631331), weight: 1.0},
-{location: new google.maps.LatLng(43.6347823783, 51.1801025031), weight: 1.0},
-{location: new google.maps.LatLng(43.6598812149, 51.1692299151), weight: 1.0},
-{location: new google.maps.LatLng(43.6659796649, 51.1618599819), weight: 1.0},
-{location: new google.maps.LatLng(43.6682014985, 51.165552638), weight: 1.0},
-{location: new google.maps.LatLng(43.6357115929, 51.1718128132), weight: 1.0},
-{location: new google.maps.LatLng(43.6654642236, 51.1466236461), weight: 1.0},
-{location: new google.maps.LatLng(43.6339232618, 51.1601740608), weight: 1.0},
-{location: new google.maps.LatLng(43.6394882948, 51.1746065798), weight: 1.0},
-{location: new google.maps.LatLng(43.656289562, 51.1535888625), weight: 1.0},
-{location: new google.maps.LatLng(43.65859563, 51.1443713722), weight: 1.0},
-{location: new google.maps.LatLng(43.6590492493, 51.1559289585), weight: 1.0},
-{location: new google.maps.LatLng(43.6587313167, 51.1663872391), weight: 1.0},
-{location: new google.maps.LatLng(43.6610216902, 51.169156433), weight: 1.0},
-{location: new google.maps.LatLng(43.6357896355, 51.1654736369), weight: 1.0},
-{location: new google.maps.LatLng(43.6654498142, 51.1642735804), weight: 1.0},
-{location: new google.maps.LatLng(43.6365957272, 51.1875752786), weight: 1.0},
-{location: new google.maps.LatLng(43.6351771046, 51.1589788323), weight: 1.0},
-{location: new google.maps.LatLng(43.6431694987, 51.1596313992), weight: 1.0},
-{location: new google.maps.LatLng(43.6525023632, 51.2176809806), weight: 1.0},
-{location: new google.maps.LatLng(43.6640901867, 51.1540096943), weight: 1.0},
-{location: new google.maps.LatLng(43.6386733504, 51.1672651801), weight: 1.0},
-{location: new google.maps.LatLng(43.6480038599, 51.1515770751), weight: 1.0},
-{location: new google.maps.LatLng(43.6620351443, 51.1665170573), weight: 1.0},
-{location: new google.maps.LatLng(43.6659024594, 51.1455672686), weight: 1.0},
-{location: new google.maps.LatLng(43.6626059811, 51.1637592351), weight: 1.0},
-{location: new google.maps.LatLng(43.6548222541, 51.1569875636), weight: 1.0},
-{location: new google.maps.LatLng(43.6512578507, 51.1523412147), weight: 1.0},
-{location: new google.maps.LatLng(43.6374403703, 51.1837151739), weight: 1.0},
-{location: new google.maps.LatLng(43.6664823702, 51.1402482439), weight: 1.0},
-{location: new google.maps.LatLng(43.6353840127, 51.1802449307), weight: 1.0},
-{location: new google.maps.LatLng(43.6351774408, 51.1589733299), weight: 1.0},
-{location: new google.maps.LatLng(43.6440828675, 51.1554193728), weight: 1.0},
-{location: new google.maps.LatLng(43.6394741162, 51.1619661893), weight: 1.0},
-{location: new google.maps.LatLng(43.6664851575, 51.1402523152), weight: 1.0},
-{location: new google.maps.LatLng(43.6658805024, 51.1353865699), weight: 1.0},
-{location: new google.maps.LatLng(43.6374049908, 51.174070061), weight: 1.0},
-{location: new google.maps.LatLng(43.6711558951, 51.1606236075), weight: 1.0},
-{location: new google.maps.LatLng(43.6654939608, 51.1411727493), weight: 1.0},
-{location: new google.maps.LatLng(43.6679872524, 51.164837699), weight: 1.0},
-{location: new google.maps.LatLng(43.6705252475, 51.1634869028), weight: 1.0},
-{location: new google.maps.LatLng(43.6336891502, 51.1676992024), weight: 1.0},
-{location: new google.maps.LatLng(43.6689961348, 51.161230213), weight: 1.0},
-{location: new google.maps.LatLng(43.639612157, 51.1742591613), weight: 1.0},
-{location: new google.maps.LatLng(43.6375259755, 51.1849757714), weight: 1.0},
-{location: new google.maps.LatLng(43.6329015978, 51.1778200683), weight: 1.0},
-{location: new google.maps.LatLng(43.6493331986, 51.2400483884), weight: 1.0},
-{location: new google.maps.LatLng(43.6552004377, 51.1569995641), weight: 1.0},
-{location: new google.maps.LatLng(43.6629906766, 51.1528322292), weight: 1.0},
-{location: new google.maps.LatLng(43.6354265371, 51.1641880132), weight: 1.0},
-{location: new google.maps.LatLng(43.6599442592, 51.1666052904), weight: 1.0},
-{location: new google.maps.LatLng(43.6558652826, 51.1413251986), weight: 1.0},
-{location: new google.maps.LatLng(43.6462937217, 51.1488355699), weight: 1.0},
-{location: new google.maps.LatLng(43.6377194962, 51.1748686365), weight: 1.0},
-{location: new google.maps.LatLng(43.6629386758, 51.1427572851), weight: 1.0},
-{location: new google.maps.LatLng(43.6388215045, 51.1719992053), weight: 1.0},
-{location: new google.maps.LatLng(43.6569812879, 51.1532390574), weight: 1.0},
-{location: new google.maps.LatLng(43.638667089, 51.1740317046), weight: 1.0},
-{location: new google.maps.LatLng(43.66470547, 51.1619796925), weight: 1.0},
-{location: new google.maps.LatLng(43.6581551944, 51.1545561023), weight: 1.0},
-{location: new google.maps.LatLng(43.6317271167, 51.1631732081), weight: 1.0},
-{location: new google.maps.LatLng(43.6642209223, 51.1461815939), weight: 1.0},
-{location: new google.maps.LatLng(43.6586012385, 51.1491418034), weight: 1.0},
-{location: new google.maps.LatLng(43.6354550003, 51.1783161895), weight: 1.0},
-{location: new google.maps.LatLng(43.6653752543, 51.1721882236), weight: 1.0},
-{location: new google.maps.LatLng(43.6327663284, 51.1596364019), weight: 1.0},
-{location: new google.maps.LatLng(43.6450608138, 51.1558507658), weight: 1.0},
-{location: new google.maps.LatLng(43.6463721703, 51.1757471628), weight: 1.0},
-{location: new google.maps.LatLng(43.6556931768, 51.1591060119), weight: 1.0},
-{location: new google.maps.LatLng(43.6448858271, 51.1682014756), weight: 1.0},
-{location: new google.maps.LatLng(43.6400818408, 51.1731002355), weight: 1.0},
-{location: new google.maps.LatLng(43.6356019294, 51.1751007385), weight: 1.0},
-{location: new google.maps.LatLng(43.6397127873, 51.17125458), weight: 1.0},
-{location: new google.maps.LatLng(43.6402482454, 51.1627564066), weight: 1.0},
-{location: new google.maps.LatLng(43.6369168303, 51.1643559046), weight: 1.0},
-{location: new google.maps.LatLng(43.6787494418, 51.1662725044), weight: 1.0},
+43.6462886485,51.1488319043,1.0
+43.6394882948,51.1746065798,1.0
+43.6629641594,51.1676989296,1.0
+43.6712070198,51.1726019319,1.0
+43.6349229782,51.1626348478,1.0
+43.6269325502,51.1996117249,1.0
+43.6677492061,51.1624699193,1.0
+43.6558530426,51.1436358257,1.0
+43.6672871978,51.1624900099,1.0
+43.6715390377,51.1740999493,1.0
+43.6383859048,51.1614288913,1.0
+43.6505195826,51.1480785642,1.0
+43.6655539481,51.1509494359,1.0
+43.6452759608,51.1728574303,1.0
+43.6622456787,51.1642072106,1.0
+43.6347612021,51.1648684199,1.0
+43.6655574802,51.150950491,1.0
+43.6675169549,51.1414126073,1.0
+43.6508788613,51.1527320763,1.0
+43.6365552685,51.1889991761,1.0
+43.6730330808,51.1644451769,1.0
+43.6319129235,51.1822325315,1.0
+43.635859736,51.1607891409,1.0
+43.6374832789,51.1768413379,1.0
+43.667513702,51.1389565383,1.0
+43.6517056221,51.1423128244,1.0
+43.6704698703,51.1737568188,1.0
+43.6594394933,51.1405617585,1.0
+43.6601090586,51.1655638833,1.0
+43.6411712111,51.1691057239,1.0
+43.6389283039,51.1731881394,1.0
+43.6462937217,51.1488355699,1.0
+43.6598812149,51.1692299151,1.0
+43.6665083185,51.1336777321,1.0
+43.6645402001,51.16312335,1.0
+43.6389929642,51.1608276184,1.0
+43.6470575661,51.1713517593,1.0
+43.6652021442,51.1694963425,1.0
+43.6591742483,51.1489149247,1.0
+43.6606969149,51.1710564625,1.0
+43.6391623755,51.1584945585,1.0
+43.6465460348,51.1571794483,1.0
+43.6536869266,51.1421004685,1.0
+43.6491151193,51.1531278354,1.0
+43.6484068749,51.1459951899,1.0
+43.6387213255,51.1764075382,1.0
+43.6659024594,51.1455672686,1.0
+43.6812663918,51.1604579695,1.0
+43.6490662076,51.2174530961,1.0
+43.6406894066,51.1706890261,1.0
+43.6391935472,51.1811479686,1.0
+43.6556954818,51.1591108332,1.0
+43.6450280459,51.1649010274,1.0
+43.6308315844,51.1665421525,1.0
+43.6546271329,51.1450050364,1.0
+43.645510932,51.1776574652,1.0
+43.6399916485,51.1706065766,1.0
+43.646838378,51.1486440571,1.0
+43.638823054,51.1772863673,1.0
+43.6375783003,51.1785502089,1.0
+43.670495221,51.1720241702,1.0
+43.6395104092,51.1751516018,1.0
+43.6394774396,51.1725284034,1.0
+43.6374049908,51.174070061,1.0
+43.6581528263,51.1374655248,1.0
+43.6669059732,51.1342173276,1.0
+43.6525023632,51.2176809806,1.0
+43.6381426007,51.1841485799,1.0
+43.6585780949,51.1669259666,1.0
+43.6571472372,51.1704423238,1.0
+43.6558652826,51.1413251986,1.0
+43.6447949343,51.162285029,1.0
+43.6631233257,51.1486857659,1.0
+43.632082691,51.1812563449,1.0
+43.6705222231,51.1634918157,1.0
+43.6637400548,51.137023494,1.0
+43.6641603697,51.1502483916,1.0
+43.6375293413,51.1849713644,1.0
+43.6664851575,51.1402523152,1.0
+43.665170984,51.1408670223,1.0
+43.6728323356,51.160333258,1.0
+43.6562582825,51.1417037631,1.0
+43.6483261139,51.150051071,1.0
+43.6483778991,51.1491431344,1.0
+43.6618884005,51.1640023037,1.0
+43.664855934,51.1539032092,1.0
+43.6724723385,51.1696721816,1.0
+43.6336927193,51.1676967074,1.0
+43.6400818408,51.1731002355,1.0
+43.6427077503,51.1596413106,1.0
+43.6357896355,51.1654736369,1.0
+43.6440203633,51.1675121672,1.0
+43.6584414066,51.1507143462,1.0
+43.64289075,51.1756255798,1.0
+43.6520658056,51.2183219113,1.0
+43.6368362318,51.1593422225,1.0
+43.6723932805,51.1627158992,1.0
+43.6329054814,51.1778174309,1.0
+43.6690603361,51.1688981954,1.0
+43.6635291295,51.1500851905,1.0
+43.6331435982,51.1773128029,1.0
+43.6639629207,51.1678488553,1.0
+43.6355684151,51.175957501,1.0
+43.6379817431,51.177761062,1.0
+43.6461461562,51.1626184202,1.0
+43.6613835555,51.1528189955,1.0
+43.6542156826,51.1588577136,1.0
+43.6443569443,51.1921634275,1.0
+43.6587374892,51.1416832655,1.0
+43.663647638,51.1625610362,1.0
+43.6361164756,51.1715398927,1.0
+43.6339588645,51.1821611466,1.0
+43.6347617551,51.1648702653,1.0
+43.6524829159,51.1701962789,1.0
+43.6468449376,51.1719234349,1.0
+43.6713991666,51.1684270929,1.0
+43.6406068919,51.1608643306,1.0
+43.6358446772,51.1875570289,1.0
+43.6328691777,51.163305605,1.0
+43.6441253039,51.1525837326,1.0
+43.6633620314,51.1417787914,1.0
+43.6543710598,51.1511548631,1.0
+43.6389212585,51.1799353806,1.0
+43.6574931356,51.1528627411,1.0
+43.6607403616,51.1392208127,1.0
+43.6397126638,51.1712566027,1.0
+43.6369168303,51.1643559046,1.0
+43.6340816254,51.1800426258,1.0
+43.6365069462,51.1720823491,1.0
+43.6376065306,51.187121758,1.0
+43.6466130328,51.1521954885,1.0
+43.636556388,51.1890005096,1.0
+43.6629249006,51.1633496694,1.0
+43.6525063432,51.2173701271,1.0
+43.6571958391,51.1501296146,1.0
+43.6386733504,51.1672651801,1.0
+43.6661790072,51.1387740668,1.0
+43.653840495,51.1589849218,1.0
+43.6415141199,51.1569172342,1.0
+43.6590061848,51.1381171749,1.0
+43.6346884425,51.1824693891,1.0
+43.6641312998,51.1687556073,1.0
+43.634647291,51.1810631592,1.0
+43.6616356633,51.1454436605,1.0
+43.6343521641,51.1597817309,1.0
+43.6371178601,51.1625278481,1.0
+43.6510392523,51.1437215782,1.0
+43.6649161741,51.1644768388,1.0
+43.6726617283,51.1647226293,1.0
+43.6596043262,51.1530159713,1.0
+43.6571946037,51.1501311598,1.0
+43.6599442592,51.1666052904,1.0
+43.6656144096,51.1417435299,1.0
+43.6644061198,51.1728837618,1.0
+43.6685068566,51.1688337262,1.0
+43.633593855,51.162340194,1.0
+43.641741325,51.1545631747,1.0
+43.6388215045,51.1719992053,1.0
+43.659089654,51.1531955243,1.0
+43.65997272,51.1682317027,1.0
+43.6361585576,51.1846380516,1.0
+43.63969597,51.1681138272,1.0
+43.6827066382,51.1625503701,1.0
+43.6466817767,51.1657856963,1.0
+43.652224104,51.2179640028,1.0
+43.6474784847,51.1527207154,1.0
+43.6722938799,51.164576855,1.0
+43.662606963,51.1421039899,1.0
+43.6401900962,51.1747759741,1.0
+43.6356561245,51.1628881458,1.0
+43.6464751853,51.1610651984,1.0
+43.6687736307,51.1642248794,1.0
+43.6291336018,51.1647968232,1.0
+43.66155915,51.1689102054,1.0
+43.661270905,51.1577138882,1.0
+43.6399916943,51.1640591503,1.0
+43.6327663284,51.1596364019,1.0
+43.6586012385,51.1491418034,1.0
+43.6391909994,51.1681061852,1.0
+43.6631243674,51.1486896389,1.0
+43.6327583532,51.1618394354,1.0
+43.6465897776,51.1741114488,1.0
+43.664780542,51.1448883341,1.0
+43.6533089779,51.1522363286,1.0
+43.670039628,51.1652954686,1.0
+43.660473476,51.1481013384,1.0
+43.6327543953,51.1818907586,1.0
+43.6702739494,51.1695866888,1.0
+43.6633843446,51.1427834274,1.0
+43.6682014985,51.165552638,1.0
+43.6590500068,51.1559298687,1.0
+43.6483523825,51.1516103406,1.0
+43.6591623828,51.1675010259,1.0
+43.6740805717,51.1633209568,1.0
+43.642419294,51.1694138036,1.0
+43.6436421715,51.1754808875,1.0
+43.6545774401,51.1539659846,1.0
+43.6336846552,51.175820081,1.0
+43.6675167038,51.141417874,1.0
+43.6433028991,51.1630410128,1.0
+43.6444977358,51.153030862,1.0
+43.665640547,51.1348165513,1.0
+43.6378529697,51.1831064278,1.0
+43.6464561168,51.1749289151,1.0
+43.6652985851,51.1440593867,1.0
+43.6623833498,51.1478933987,1.0
+43.6459254221,51.1581992321,1.0
+43.639612157,51.1742591613,1.0
+43.6584131834,51.2372828238,1.0
+43.6711558951,51.1606236075,1.0
+43.6335480713,51.1820550884,1.0
+43.6391874654,51.168110989,1.0
+43.6635797119,51.171484816,1.0
+43.6670121965,51.1579191104,1.0
+43.6654642236,51.1466236461,1.0
+43.6331585226,51.181977344,1.0
+43.6723133598,51.1685189979,1.0
+43.649976149,51.1518694773,1.0
+43.6386262312,51.1686633917,1.0
+43.6542468701,51.1513051112,1.0
+43.654017853,51.1440148825,1.0
+43.6670283112,51.1368131092,1.0
+43.6390137266,51.1632977723,1.0
+43.6639315017,51.1619786892,1.0
+43.6408554188,51.167583532,1.0
+43.6538223304,51.1543581627,1.0
+43.6383350418,51.1574653115,1.0
+43.6453934888,51.167278439,1.0
+43.6654498142,51.1642735804,1.0
+43.6585748668,51.1669251618,1.0
+43.6483516341,51.1516112979,1.0
+43.6356064072,51.1884996783,1.0
+43.6417505137,51.1697702261,1.0
+43.6633651237,51.141773498,1.0
+43.6662214065,51.1577796788,1.0
+43.6458321798,51.1645236057,1.0
+43.659811652,51.149574647,1.0
+43.6576648758,51.1545505216,1.0
+43.6454339872,51.155853377,1.0
+43.652703915,51.1470957507,1.0
+43.6662312226,51.1331273946,1.0
+43.665864818,51.1902273601,1.0
+43.635150163,51.1658287214,1.0
+43.6326834232,51.180234503,1.0
+43.6718025096,51.1610419073,1.0
+43.6480217927,51.1668462001,1.0
+43.6371888818,51.1848929824,1.0
+43.6385391409,51.1779329164,1.0
+43.6578991769,51.1425870923,1.0
+43.6403811938,51.1723692976,1.0
+43.6652066729,51.1527875827,1.0
+43.6717062538,51.173551487,1.0
+43.6392273097,51.1577372632,1.0
+43.6508798563,51.1527322622,1.0
+43.6473618148,51.1617971505,1.0
+43.6389378837,51.179059128,1.0
+43.6396087431,51.1742631331,1.0
+43.6588303587,51.1567012244,1.0
+43.6733245737,51.1708858037,1.0
+43.6645967724,51.1662232119,1.0
+43.6466703507,51.1543836692,1.0
+43.6608612896,51.1545340268,1.0
+43.6633058394,51.1458956311,1.0
+43.6590850301,51.1396473724,1.0
+43.6481135872,51.1613936789,1.0
+43.6420442118,51.1694862086,1.0
+43.6594221821,51.1504387627,1.0
+43.6544694258,51.1605435889,1.0
+43.6425930641,51.1704694393,1.0
+43.6371651782,51.1767631266,1.0
+43.6389884572,51.1740163754,1.0
+43.6584214413,51.1429619718,1.0
+43.6572756979,51.1714037596,1.0
+43.6569498223,51.1401965924,1.0
+43.6477375067,51.1617994944,1.0
+43.6383115436,51.1586407727,1.0
+43.6552188127,51.1503121444,1.0
+43.6412011681,51.161749623,1.0
+43.6450241661,51.1578044451,1.0
+43.6382778894,51.1798108251,1.0
+43.6319168841,51.1822297459,1.0
+43.6624486928,51.1451760688,1.0
+43.6439807763,51.1619767933,1.0
+43.6518567476,51.2174691365,1.0
+43.6538241769,51.1543581412,1.0
+43.6605687913,51.1518589989,1.0
+43.6361872378,51.1884040568,1.0
+43.6581531294,51.1545558451,1.0
+43.6631738323,51.1681758206,1.0
+43.6379830281,51.1777659046,1.0
+43.6400361994,51.172705554,1.0
+43.6645352919,51.1631191995,1.0
+43.6552004377,51.1569995641,1.0
+43.6405568061,51.167937097,1.0
+43.6702117457,51.1605638002,1.0
+43.6413639464,51.1641597973,1.0
+43.6517063693,51.1423108355,1.0
+43.6526954408,51.218154684,1.0
+43.645513318,51.1776509589,1.0
+43.6395827083,51.1840985146,1.0
+43.6474397353,51.1657880299,1.0
+43.6470646116,51.1657823981,1.0
+43.6664364757,51.1450912753,1.0
+43.652502005,51.1493859916,1.0
+43.6635327287,51.148213488,1.0
+43.6412012608,51.155741019,1.0
+43.636597184,51.1875718448,1.0
+43.6392311791,51.1577334148,1.0
+43.6531568555,51.1540823764,1.0
+43.6629906766,51.1528322292,1.0
+43.6414332812,51.1603931716,1.0
+43.6584223926,51.1429659575,1.0
+43.6644921737,51.1694770153,1.0
+43.6417390269,51.1545658753,1.0
+43.6660422917,51.1719618033,1.0
+43.6585012541,51.1525105639,1.0
+43.6624799712,51.1346244344,1.0
+43.6559729567,51.1512383797,1.0
+43.640373909,51.1558979009,1.0
+43.6483239352,51.150046929,1.0
+43.6344231958,51.1745971472,1.0
+43.645789854,51.1655536461,1.0
+43.6645901422,51.1524236784,1.0
+43.6724953967,51.1613420129,1.0
+43.6654222555,51.1493323431,1.0
+43.6418098319,51.1581085603,1.0
+43.6679843956,51.1605271693,1.0
+43.6412033072,51.1557432063,1.0
+43.6332220702,51.1628181811,1.0
+43.6663819275,51.1370894868,1.0
+43.6448858271,51.1682014756,1.0
+43.6438120787,51.1570167837,1.0
+43.6480038599,51.1515770751,1.0
+43.6590817045,51.1396424135,1.0
+43.6381311102,51.1731735191,1.0
+43.6458596166,51.1616733433,1.0
+43.6619307959,51.1573579028,1.0
+43.6629269051,51.1633513191,1.0
+43.6329015978,51.1778200683,1.0
+43.6562731919,51.1509323843,1.0
+43.6599847895,51.1521983868,1.0
+43.6617794576,51.1347141196,1.0
+43.6604209334,51.2497893718,1.0
+43.6319389496,51.1644772636,1.0
+43.630743965,51.1651337924,1.0
+43.6689961348,51.161230213,1.0
+43.6372479518,51.186327083,1.0
+43.6606935954,51.1663644573,1.0
+43.6533227302,51.1459153794,1.0
+43.6386891782,51.1611186477,1.0
+43.6628241669,51.1369137845,1.0
+43.6660558997,51.1464617901,1.0
+43.6701648795,51.1677838436,1.0
+43.650104675,51.1513842709,1.0
+43.6326800626,51.1802401463,1.0
+43.6656464769,51.1651605785,1.0
+43.6359467149,51.1889907888,1.0
+43.66580085,51.1637724724,1.0
+43.6426011813,51.1653169694,1.0
+43.6419144813,51.160429349,1.0
+43.6586004921,51.1491358708,1.0
+43.6610351167,51.1506441252,1.0
+43.6586277825,51.1471420181,1.0
+43.6638375222,51.1353669083,1.0
+43.6592641904,51.1514213033,1.0
+43.6580583231,51.1517880571,1.0
+43.6363578592,51.1649162027,1.0
+43.6619883111,51.1624218208,1.0
+43.6335487799,51.1820553004,1.0
+43.6624208167,51.170976069,1.0
+43.6472324852,51.1670115971,1.0
+43.6392518305,51.1701056323,1.0
+43.632986366,51.167207802,1.0
+43.6335605462,51.1660537566,1.0
+43.6481129247,51.1613910443,1.0
+43.671312501,51.1588019252,1.0
+43.6661598408,51.1646041321,1.0
+43.6642615262,51.1589069039,1.0
+43.6639418969,51.1631290743,1.0
+43.6712896199,51.1691420611,1.0
+43.6355988089,51.1751069654,1.0
+43.6463218109,51.1670261797,1.0
+43.6547841819,51.1406232374,1.0
+43.6838974783,51.16186246,1.0
+43.6450255602,51.1578058229,1.0
+43.6433586949,51.1653124802,1.0
+43.6570120317,51.1420850667,1.0
+43.6708958236,51.1733425857,1.0
+43.6664442358,51.1715513162,1.0
+43.635386163,51.1847290328,1.0
+43.6572212905,51.1579932195,1.0
+43.6642952093,51.140571732,1.0
+43.6492793105,51.147363159,1.0
+43.635353379,51.1854554092,1.0
+43.63634997,51.1810697213,1.0
+43.6512870212,51.1424122388,1.0
+43.6651152279,51.1627558661,1.0
+43.6394741162,51.1619661893,1.0
+43.66470547,51.1619796925,1.0
+43.6331576501,51.1819762213,1.0
+43.6656465501,51.1651576646,1.0
+43.634634336,51.1641638535,1.0
+43.6629006145,51.1533641877,1.0
+43.6602375673,51.1541529896,1.0
+43.6538438041,51.1407160973,1.0
+43.6292278975,51.1658585885,1.0
+43.6501114333,51.1534876578,1.0
+43.635841182,51.1800951053,1.0
+43.6594179626,51.1504395161,1.0
+43.6590929163,51.1531904339,1.0
+43.6522867469,51.2183536233,1.0
+43.6661569231,51.164606902,1.0
+43.6683172246,51.1678024022,1.0
+43.6454691819,51.1645218388,1.0
+43.6645951985,51.166222721,1.0
+43.63992942,51.1822116955,1.0
+43.6341512826,51.1654579969,1.0
+43.653532861,51.1427132608,1.0
+43.6517439462,51.2164879303,1.0
+43.638694984,51.1865659048,1.0
+43.6458619086,51.1748133233,1.0
+43.6660320916,51.1604519435,1.0
+43.6342798544,51.1755729898,1.0
+43.6311547455,51.1638062796,1.0
+43.6639429803,51.1631270542,1.0
+43.6647362146,51.1598491178,1.0
+43.6528525737,51.2181810815,1.0
+43.6637612457,51.1460388213,1.0
+43.6677528213,51.162474177,1.0
+43.6469005267,51.1737896006,1.0
+43.6440824186,51.1554167028,1.0
+43.6599436214,51.1666099511,1.0
+43.643712448,51.1554088831,1.0
+43.6386755589,51.1672693167,1.0
+43.6622677627,51.1675171431,1.0
+43.6571780325,51.1545323241,1.0
+43.6560748548,51.153001183,1.0
+43.6458567322,51.1616754046,1.0
+43.6524201206,51.218288182,1.0
+43.6342300143,51.1667293197,1.0
+43.6673816631,51.163363079,1.0
+43.6464043946,51.1763975398,1.0
+43.6393778499,51.1761280146,1.0
+43.6365957272,51.1875752786,1.0
+43.6630772469,51.1523080067,1.0
+43.6435661395,51.1682757887,1.0
+43.6641716144,51.1531808365,1.0
+43.6631779578,51.1701498241,1.0
+43.6396719869,51.1675014401,1.0
+43.6332449514,51.1750674055,1.0
+43.6601052563,51.1655651781,1.0
+43.6315344069,51.1666095383,1.0
+43.6555628465,51.1524673558,1.0
+43.6647355339,51.1598536002,1.0
+43.6541974324,51.153968877,1.0
+43.658438309,51.1507145677,1.0
+43.6639212365,51.152232694,1.0
+43.6479904552,51.1633193667,1.0
+43.6450467987,51.1751725629,1.0
+43.6679720996,51.1687249751,1.0
+43.646915282,51.1497431219,1.0
+43.636514695,51.1847274056,1.0
+43.6370328852,51.1702444439,1.0
+43.6359642197,51.1722500113,1.0
+43.6356019294,51.1751007385,1.0
+43.6292280823,51.1658561154,1.0
+43.6350177882,51.1743080953,1.0
+43.6385574642,51.1727429355,1.0
+43.6675093186,51.16987571,1.0
+43.643444844,51.1528035431,1.0
+43.6399505826,51.1813253399,1.0
+43.6519820345,51.2182483719,1.0
+43.6620354627,51.1665228737,1.0
+43.6622660898,51.1675227526,1.0
+43.6591617335,51.1674991856,1.0
+43.6410691532,51.1716814476,1.0
+43.638690785,51.1611233508,1.0
+43.6512578507,51.1523412147,1.0
+43.6679866141,51.1605325298,1.0
+43.665609581,51.1377013165,1.0
+43.6430882056,51.1695570886,1.0
+43.6645771304,51.1574723513,1.0
+43.6486963415,51.1516296248,1.0
+43.6809823726,51.1620008009,1.0
+43.6642209223,51.1461815939,1.0
+43.6327567565,51.1818881717,1.0
+43.6728361863,51.1603301336,1.0
+43.6659779858,51.1618599595,1.0
+43.6672766866,51.1644630764,1.0
+43.6569676592,51.1566281312,1.0
+43.6573448305,51.1561961252,1.0
+43.6559323211,51.1499962593,1.0
+43.6391548263,51.1725262413,1.0
+43.651780237,51.1468336545,1.0
+43.6659796649,51.1618599819,1.0
+43.6542108809,51.1588547143,1.0
+43.6434489189,51.1528056718,1.0
+43.6705252475,51.1634869028,1.0
+43.6308327726,51.1665403135,1.0
+43.6408359783,51.1590834372,1.0
+43.6542003539,51.1539699495,1.0
+43.6540718776,51.1565731683,1.0
+43.647648026,51.1515680843,1.0
+43.6386696127,51.179460212,1.0
+43.6603845728,51.167307662,1.0
+43.6702735022,51.1695893085,1.0
+43.6409630394,51.16689483,1.0
+43.647058475,51.171356554,1.0
+43.6598812232,51.1692259003,1.0
+43.6413657207,51.1641635218,1.0
+43.6688127827,51.1585233992,1.0
+43.6540844591,51.1600626445,1.0
+43.645061941,51.1558499318,1.0
+43.6367627064,51.1726175878,1.0
+43.6370952007,51.1726076809,1.0
+43.6466851457,51.1724157637,1.0
+43.6685051442,51.1688295658,1.0
+43.6671972937,51.1515260143,1.0
+43.6619876144,51.1517341766,1.0
+43.6631065045,51.1569251047,1.0
+43.6458654424,51.1739709805,1.0
+43.6675137477,51.1698762775,1.0
+43.6581551944,51.1545561023,1.0
+43.6478199507,51.1536976233,1.0
+43.6418296909,51.1637075257,1.0
+43.6291291894,51.1647968769,1.0
+43.6583658947,51.1370965465,1.0
+43.6572842342,51.1483931857,1.0
+43.6573466414,51.156190065,1.0
+43.6704410753,51.1702918291,1.0
+43.6459149682,51.1551807142,1.0
+43.649638673,51.1490923433,1.0
+43.6440828675,51.1554193728,1.0
+43.6706799184,51.1662609078,1.0
+43.6490648052,51.1490655145,1.0
+43.6474774983,51.1527186717,1.0
+43.64333471,51.15540765,1.0
+43.662305096,51.1599987114,1.0
+43.6647401841,51.136221299,1.0
+43.654581539,51.1539661715,1.0
+43.6461975516,51.1733819781,1.0
+43.6642600654,51.1589047174,1.0
+43.663127381,51.1384644344,1.0
+43.6458626276,51.1748159593,1.0
+43.6501042613,51.1513806994,1.0
+43.6347823783,51.1801025031,1.0
+43.6679629205,51.1637975104,1.0
+43.6596480034,51.1547844299,1.0
+43.6675976678,51.1367144508,1.0
+43.651791875,51.1476064405,1.0
+43.6621988588,51.1594294592,1.0
+43.6704684062,51.1737545373,1.0
+43.6450264568,51.1649068323,1.0
+43.6615070415,51.1511749481,1.0
+43.6703336117,51.164745567,1.0
+43.6645892107,51.1524270732,1.0
+43.6620351443,51.1665170573,1.0
+43.665854187,51.1629880534,1.0
+43.6508555743,51.1513407619,1.0
+43.6336857837,51.1758223735,1.0
+43.6525791517,51.2183263868,1.0
+43.6527476742,51.2184236257,1.0
+43.6358036404,51.1814497833,1.0
+43.6653752543,51.1721882236,1.0
+43.6353156821,51.1815276222,1.0
+43.6685725267,51.1388354121,1.0
+43.6658046211,51.1637739334,1.0
+43.6710145491,51.1634773842,1.0
+43.6595830868,51.1375337959,1.0
+43.6572817673,51.1381873334,1.0
+43.6632745455,51.1583616397,1.0
+43.6409852056,51.170022401,1.0
+43.6420450408,51.1694910706,1.0
+43.6467847492,51.1670252099,1.0
+43.653588584,51.1464332203,1.0
+43.6672068877,51.1353254215,1.0
+43.6370438651,51.1582786601,1.0
+43.6554667154,51.1427384658,1.0
+43.665358324,51.1341259778,1.0
+43.6445253505,51.163680168,1.0
+43.6386401509,51.1821509145,1.0
+43.634533486,51.1619059448,1.0
+43.6376970832,51.1727830269,1.0
+43.6448791084,51.1534997572,1.0
+43.6637571692,51.1460387509,1.0
+43.6370312233,51.1702436071,1.0
+43.6378540965,51.1831049036,1.0
+43.6379944886,51.1820139227,1.0
+43.6479076151,51.1598132936,1.0
+43.6470455076,51.1589529268,1.0
+43.636741148,51.1705327735,1.0
+43.6489161036,51.1653094403,1.0
+43.6627262129,51.1589014058,1.0
+43.6355433714,51.1635309417,1.0
+43.6715397142,51.1740958222,1.0
+43.6451588351,51.1593006506,1.0
+43.6374013195,51.1720533235,1.0
+43.6397839679,51.1719777696,1.0
+43.6380811345,51.1617339139,1.0
+43.6598399418,51.1535601769,1.0
