@@ -20,7 +20,7 @@ for city in files:
 	    	# res.append('%s,%s,%s'%(row[0],row[1],min(float(row[2]), 50)))
 
 	cur_data.sort(key=lambda x: x[2])
-	all_data += cur_data[:-40]
+	all_data += cur_data[:100]
 
 f = open('all_data_js.txt', 'w')
 
